@@ -205,7 +205,7 @@ El Campeonato Nacional se organiza en zonas:
 
 
 ## 12) Tiempos Operativos
-- **Llamados/presentación**: 3 llamados, 1 minuto entre llamados. Presentación válida = robot en pista/ring.
+- **Llamados/presentación**: 3 llamados, 1 minuto entre llamados. Presentación válida = robot en pista/ring. (El llamado de una llave, grupo o instancia completa se contará tambien como un llamado)
 - **Entre asaltos/carreras**: **1 minuto máximo** (salvo **tiempo adicional**).
 - **Reinicio tras detención**: se mantiene el tope general de **1 minuto**.
 - **Tiempo adicional**: **1 único de 5 minutos por evento**, sujeto a autorización del juez. 

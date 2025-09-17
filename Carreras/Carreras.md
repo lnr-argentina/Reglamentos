@@ -20,14 +20,14 @@ Este reglamento **complementa** al **Reglamento General de la LNR** y remite a �
 ---
 
 ## 3) Objetivo
-Recorrer el circuito siguiendo la línea y **completar “n” vueltas** antes que el rival. Se corre en **dos carriles** paralelos que recorren el mismo trazado. O en el que mas lejos llegue en caso de no completar las vueltas por los participantes.
+Recorrer el circuito siguiendo la línea y **completar “n” vueltas** antes que el rival. Se corre en **dos carriles** paralelos que recorren el mismo trazado. O en el que más lejos llegue en caso de no completar las vueltas por los participantes.
 
 ---
 
 ## 4) Características técnicas del robot
 
 ### 4.1 Aspectos generales
-- El deberá llevar un codigo visible de 1 cm x 2 cm **como el numero de homologación**, deberá disponer de este area para poder identificarlo en la homologación por la organización.  
+- El robot deberá llevar un código visible de 1 cm x 2 cm **como el numero de homologación**, deberá disponer de este area para poder identificarlo en la homologación por la organización.  
 
 ### 4.2 Hardware
 - **Dimensiones máximas:** 20 cm (largo) × 14 cm (ancho) × 10 cm (alto).  
@@ -82,21 +82,21 @@ El jurado puede **reverificar** en cualquier momento (peso, medidas, LED, impuls
 - **Ruedas sin adherentes** (prueba en hoja).  
 - **Pruebas libres** Antes de la primera ronda, los equipos podrán hacer pruebas libremente sobre la
 pista. El resto de las pruebas deberá ser consensuada con los jueces, **a criterio del jurado**. 
-- Podrá convocarse a **todos los competidores** de una llave para agilizar la secuencia.  
+- Podrá convocarse a **todos los competidores** de una llave/grupo para agilizar la secuencia.  
 - Formato general: **Fase de grupos**, **eliminación directa**, **tercer puesto** y **final** (según defina el sistema).  
 - Una **ronda** puede consistir en **2, 3 o 5 carreras** (según instancia/cantidad de inscriptos) y como lo defina la organización del evento.  
-- El **tiempo máximo** por carrera/ronda se informará antes del inicio del torneo.
+- El **tiempo máximo** por carrera y la cantidad de vueltas por carrera se definirá antes del inicio del torneo y en las instancias finales se podrá acordar entre los participantes, la cantidad de carreras para definir el avance de instancia.  
 
 ### 7.2 Inicio
 - Hasta **3 llamados** con **1 min** entre avisos.  (Reglamento General)
   - Si un equipo no se presenta **1 min** tras el último llamado, gana el oponente que **haya colocado** su robot en la pista.  
-  - Si **ninguno** se presenta, el jurado puede esperar hasta **5 min** y, de persistir, **eliminar** a ambos.  
+  - Si **ninguno** se presenta, el jurado puede esperar hasta **5 min** desde el ultimo llamado y, de persistir, **eliminar** a ambos.  
 - Entre carreras: **1 min** máximo de espera para reiniciar.
 
 ### 7.3 Rutina de carrera
 - **Sorteo inicial**: el ganador elige carril; luego se **alterna**.  
 - El capitán coloca el robot en la **línea de largada**.  
-- Una vez dada la señal dispone de 30 segundos para calibrar/configurar, si es que lo necesita (acorde al "Apoyaron" semaforo de liga).
+- Una vez dada la señal dispone de 30 segundos para calibrar/configurar, si es que lo necesita (acorde al "Apoyaron" semaforo de liga). No está permitido el uso de dispositivos como notebooks, tablets, etc. Mientras el robot esté compitiendo.
 - Antes/luego de posicionar, se permiten **calibraciones** (switch/controles, sensores).  
 - A la orden del juez, se **encienden** los robots (LED de largada visible).  
 - Durante la carrera, nadie ingresa al **área de competencia** sin autorización.
@@ -124,7 +124,7 @@ Cuando la carrera se haya reiniciado se volverá a empezar inmediatamente desde 
 - Ser **alcanzado** en una pista con **cruce**, antes de cumplir las “n” vueltas.  
 - **Adherencia prohibida** (pegamentos, etc.).  
 - Salirse **completamente** de la pista y que el adversario **supere** el punto de salida.  
-- El capitán **no** se presenta por estar compitiendo en otra llave/moda.  
+- El capitán **no** se presenta por estar compitiendo en otra categoria.  
 - Maniobras consideradas **caída en el punto** (el rival debe superar ese punto):
   - **Vuelta en U**.  
   - **Vuelta 360°** o más.  
@@ -134,10 +134,11 @@ Cuando la carrera se haya reiniciado se volverá a empezar inmediatamente desde 
 
 ## 9) Puntuación de cada carrera
 - Gana la carrera el robot que **complete primero** las **“n” vueltas** alcance al otro por pista con cruce o llegue más lejos.  
-- También se puede ganar por **acumulación de faltas** del rival (según aplique).  
+- También se puede ganar por **acumulación de faltas** del rival (según aplique). Dos faltas equivalen a una carrera perdida.  
 - Si **ninguno** completa las “n” vueltas tras iniciada la carrera, gana quien haya recorrido **mayor distancia**; si hay **misma** distancia → **reinicio**.  
 - Si durante el desarrollo el oponente **toca el piso** (y va por detrás), se considera **victoria** del otro.  
 - Si expira el **tiempo máximo**, gana quien tenga **mayor distancia recorrida**.
+
 
 ---
 

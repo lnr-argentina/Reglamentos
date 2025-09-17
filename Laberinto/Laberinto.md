@@ -119,8 +119,7 @@ La prueba se detendrá cuando:
 
 ## 7) Penalidades
 Se aplicará **penalización y reinicio** cuando:
-- El robot permanezca 15 segundos inmóvil.  
-- El robot permanezca 15 segundos empujando una pared.  
+- El robot permanezca 10 segundos en la misma celda.  
 - El representante solicite reinicio o tiempo extra.  
 
 Tras una penalización, el equipo tendrá **1 minuto** para reiniciar desde el inicio.
@@ -135,8 +134,6 @@ Un robot pierde la ronda cuando:
 - Alcance **3 penalizaciones** en la ronda.  
 - No se presente al ser llamado.  
 - Provoque deliberadamente un desperfecto en el laberinto.  
-
-En cualquiera de estos casos, se considerará equivalente a **100 penalizaciones**.
 
 ---
 

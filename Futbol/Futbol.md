@@ -79,13 +79,13 @@ El jurado puede **reverificar** en cualquier momento del evento.
 
 ### 6.2 Rutina de juego
 - **Saque inicial**: el árbitro coloca la pelota en el **centro**; el equipo que saca inicia moviendo la pelota. El rival permanece **dentro de su área** hasta el primer toque.  
-- Los robots pueden moverse por **toda la cancha**; no hay zonas de exclusión.  
+- Los robots pueden moverse por toda la cancha, pero queda prohibido permanecer dentro de su propia área sin disputa de la pelota.  
 - **Marcar y bloquear** está permitido; **empujar a un compañero** para sumar fuerza está **prohibido**.  
 - Ante **gol** o **salida de pelota**, el juego se **reinicia en el centro**; saca el equipo que **recibió el gol** o **no** fue quien la envió afuera.  
-- Robots **detenidos/averiados** pueden retirarse y reingresar **con autorización del juez**, por un **lateral a mitad de cancha**.  
+- Robots **detenidos/averiados** pueden retirarse y reingresar **con autorización del juez**, por un lateral en la mitad contraria en la que se encuentre la pelota al momento del ingreso.
 - Si un robot detenido no demuestra movimiento y el juez interpreta que **interrumpe el juego**, podrá ordenar su **retiro de la cancha**.  
 - Podrá tener el suplente disponible para poder hacer sustituciones. En caso de contar con un suplente deberá avisar con anticipación al referí para tener en cuenta, ya que una vez que inicia el juego solo pueden estar alrededor de la cancha los participantes.  
-- **Adherencia prohibida** en ruedas: pérdida del juego **2–0** si se detecta uso de pegamentos/aditivos (además de lo previsto por el Reglamento General).
+- **Adherencia prohibida** en ruedas: pérdida del juego **2–0** si se detecta uso de pegamentos/aditivos (además de lo previsto por el Reglamento General).  
 
 ### 6.3 Sustituciones
 - Los robots pueden ser sustituidos **por cualquier motivo** (daño, simple sustitución por otro participante, etc.).  
@@ -152,35 +152,29 @@ Un robot recibirá tarjeta roja en los siguientes casos:
 ### 7.4 Facultades extraordinarias del jurado
 En casos extremos, los jueces o el jurado podrán **expulsar de la competición** a jugadores, equipos o delegaciones por conductas graves, incluso de manera directa, sin necesidad de acumulación de faltas o tarjetas.
 
----
-
-## 8) Goles
-
-Se considerará Gol a favor cuando la pelota traspase totalmente la línea de meta, en el
-caso de que la pelota por algún motivo regrese al campo de juego el gol será válido.
 
 ---
 
-## 9) Parada y suspensión del partido
+## 8) Parada y suspensión del partido
 - El **juez** es el único autorizado para **detener** o **suspender** el partido.  
 - Motivos: cánticos **discriminatorios**, **insultos** del público/jugadores, **riesgo** o condiciones inadecuadas, u otras razones de seguridad/equidad.  
 - El juez definirá las **sanciones** a aplicar a uno o ambos equipos según el caso.
 
 ---
 
-## 10) Tiempo adicional
+## 9) Tiempo adicional
 El tiempo adicional será considerado por el Juez del partido, teniendo en cuenta el tiempo
 que por algún motivo el partido estuvo detenido
 
 ---
 
-## 11) Fin del partido
+## 10) Fin del partido
 - Termina al finalizar el **segundo tiempo** (más el **adicional** que determine el juez).  
 - En definiciones por **penales**, finaliza al ejecutar el **último penal**.
 
 ---
 
-## 12) Referencias al Reglamento General
+## 11) Referencias al Reglamento General
 Para evitar duplicidad, se remite al [**Reglamento General de la LNR**](https://sistema.lnr-argentina.com.ar/reglamentos/General) en:
 - Normas de convivencia y **responsabilidad de equipo**.  
 - Autoridad de la **Organización** y **jueces**; funciones del jurado; **reverificación**.  

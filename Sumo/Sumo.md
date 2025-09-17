@@ -144,7 +144,7 @@ Ver **Reglamento General – Tablas de posiciones** para el cálculo de tablas e
 - 3 faltas → penalización (pierde el combate 2–0).
 
 ### 7.2 Faltas (que NO reinician el asalto)
-- Entrar en el área de Combate sin autorización previa del árbitro.
+- Entrar en el área de Combate sin autorización previa del árbitro. Ej.: pisar la línea blanca de seguridad.
 - Petición injustificada de parar el juego. O la entrada en el área de combate de algún miembro del equipo no responsable.
 - La caída de piezas del Robot.
 - Hacer o decir algo que atente contra la integridad de la competición y/o de la organización.

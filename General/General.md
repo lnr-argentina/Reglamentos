@@ -297,7 +297,7 @@ Esta primacía se funda en la **lógica consolidada y probada** del sistema, que
 - Los reclamos deben ser presentados por el **capitán** del equipo, **inmediatamente** después del enfrentamiento.
 - El jurado evalúa y resuelve en pista. Las decisiones son **inapelables** dentro del evento.
 - Podrán elevarse observaciones post-evento a la LNR para su análisis reglamentario futuro.
-- Pedido de re homologar peso y medidas. Si estos no verifican sera sancionado.
+- Pedido de re homologar peso y medidas. Si estos no verifican sera descalificado.
 
 El medio formal de reclamo es mediante correo al mail de la liga. 
 

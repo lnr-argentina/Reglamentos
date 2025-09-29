@@ -172,10 +172,22 @@ que por algún motivo el partido estuvo detenido
 - Termina al finalizar el **segundo tiempo** (más el **adicional** que determine el juez).  
 - En definiciones por **penales**, finaliza al ejecutar el **último penal**.
 
+### 10.1 Finalización del partido ante rotura de robots
+
+10.1.1 Equipo en ventaja con rivales sin robots operativos
+Si un equipo va ganando y el equipo contrario queda sin robots operativos, aun agotando su tiempo reglamentario de reparación, el partido se dará por finalizado. El resultado será el marcador existente al momento en que el árbitro declare que el equipo rival no puede continuar.
+
+10.1.2 Equipo en desventaja pero con robots operativos
+Si ocurre lo inverso —el equipo que va perdiendo mantiene robots funcionales y el equipo que va ganando queda sin robots aptos para continuar—, se ajustará el marcador sumando tantos goles como sean necesarios para que el equipo con robots en funcionamiento pase a ganar con la mínima diferencia.
+
+10.1.3 Determinación oficial
+La verificación de que un equipo no puede continuar es responsabilidad del árbitro principal. Esta decisión debe ser comunicada inmediatamente a ambos equipos y registrada por la mesa de jueces en el acta del partido.
+
 ---
 
 ## 11) Referencias al Reglamento General
 Para evitar duplicidad, se remite al [**Reglamento General de la LNR**](https://sistema.lnr-argentina.com.ar/reglamentos/General) en:
+- Esta categoria no adhiere al punto 12 del Reglamento General, sobre tomar 5 minutos en talleres, el tiempo es de 1 minuto, en el propio lugar de competencia y por única vez.   
 - Normas de convivencia y **responsabilidad de equipo**.  
 - Autoridad de la **Organización** y **jueces**; funciones del jurado; **reverificación**.  
 - Sustancias prohibidas y **prueba de hoja A4** en cualquier momento.  

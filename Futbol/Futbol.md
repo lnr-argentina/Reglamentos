@@ -87,6 +87,15 @@ El jurado puede **reverificar** en cualquier momento del evento.
 - Podrá tener el suplente disponible para poder hacer sustituciones. En caso de contar con un suplente deberá avisar con anticipación al referí para tener en cuenta, ya que una vez que inicia el juego solo pueden estar alrededor de la cancha los participantes.  
 - **Adherencia prohibida** en ruedas: pérdida del juego **2–0** si se detecta uso de pegamentos/aditivos (además de lo previsto por el Reglamento General).  
 
+#### 6.2.1 bis Inicio del partido
+El equipo que haya sido beneficiado por el sorteo para comenzar con la posesión de la pelota contará con **10 segundos** a partir de la orden de inicio del árbitro para tocar la pelota y comenzar el juego.  
+Si transcurrido ese tiempo la pelota no ha sido tocada, el equipo contrario (que comenzó defendiendo) quedará automáticamente **habilitado para disputar la pelota**.
+
+#### 6.2.2 bis Defensa dentro del área
+Durante el encuentro, queda **prohibido permanecer de forma pasiva dentro del área propia** esperando el ataque del rival.  
+La defensa debe realizarse **fuera del área**, salvo que la pelota se encuentre dentro de la misma; en tal caso, se permite el ingreso para disputar el balón.
+
+
 ### 6.3 Sustituciones
 - Los robots pueden ser sustituidos **por cualquier motivo** (daño, simple sustitución por otro participante, etc.).  
 - Permitidas en **cualquier momento**, preferentemente en **interrupciones** (gol, salida o detención del juego).  

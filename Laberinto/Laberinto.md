@@ -50,7 +50,7 @@ Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio
 
 5.1.1 Cada robot deberá completar **dos configuraciones del laberinto**, ambas **determinadas por el Jurado**. Para cada configuración, el Jurado fijará un **tiempo máximo**.
 
-5.1.2 En **cada configuración** habrá **dos rondas por robot**. En cada ronda se registrarán **tiempo**, **penalidades** y **distancia restante hasta la llegada (si no encuentra la llegada). Para la configuración, se tomará **la mejor ronda** del robot.
+5.1.2 En **cada configuración** habrá **dos rondas por robot**. En cada ronda se registrarán **tiempo**, **penalidades** y **distancia restante hasta la llegada**. Para la configuración, se tomará **la mejor ronda** del robot segun los Criterios de clasificación personal (5.2.1).
 
 5.1.3 Secuencia: una vez que **todos los robots** participantes hayan completado la **primera configuración**, el Jurado **determinará la segunda**; se realizarán nuevamente **dos rondas** por robot y se tomará **la mejor** para esa configuración.
 
@@ -58,47 +58,55 @@ Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio
 - **Su posición** al finalizar el tiempo.
 - **La distancia restante** hasta la llegada, medida como **número de celdas** por el **camino más corto** posible.
 
-5.1.5 Al finalizar la **segunda ronda de la segunda configuración**, se dará por **terminada la prueba**. Para la clasificación final se considerará primero si el robot completó el laberinto en cada configuración. Entre quienes lo completaron se aplicarán los criterios de tiempo y penalizaciones; entre quienes no lo completaron se usará distancia restante y penalizaciones.
+5.1.5 Al finalizar la **segunda ronda de la segunda configuración**, se dará por **terminada la prueba**. Con los resultados de las dos configuraciones se tomará **la mejor ronda** del robot segun los Criterios de clasificación grupal (5.2.2).
 
-**Criterios de clasificación (en este orden):**
+### 5.2 Criterios de clasificación (orden en nivel de prioridades):
+
+#### 5.2.1 Clasificación personal:
 1) **Menor tiempo de resolución** **sin penalidades**.  
-2) **Menor tiempo de resolución** con **menor cantidad de penalidades**. 
+2) **Menor tiempo de resolución** con **menor cantidad de penalidades**.  
 3) **Menor recorrido restante** hasta la salida **sin penalidades**.  
 4) **Menor recorrido restante** con **menor cantidad de penalidades**.  
 
+#### 5.2.2 Clasificación grupal:
+1) **Menor tiempo promedio** **sin penalidades**.  
+2) **Menor tiempo promedio** con **menor cantidad de penalidades promedio**. 
+3) **Menor recorrido restante promedio** hasta la salida **sin penalidades**.  
+4) **Menor recorrido restante promedio** con **menor cantidad de penalidades promedio**.  
 
-### 5.2 Rutina
 
-5.2.1 Para el comienzo del evento se llamará a los equipos participantes hasta un máximo de **3 veces**.  
+### 5.3 Rutina
+
+5.3.1 Para el comienzo del evento se llamará a los equipos participantes hasta un máximo de **3 veces**.  
 - Si no comparecen en el minuto siguiente al último llamado, el Jurado podrá eliminar al/los equipo/s o esperar como máximo **5 minutos adicionales**.  
 - Una vez cumplido ese tiempo, se procederá a la eliminación. *(Ver también Reglamento General)*
 
-5.2.2 Antes de la primera configuración, los equipos podrán utilizar libremente un **laberinto de prueba** distinto al de competencia.  
+5.3.2 Antes de la primera configuración, los equipos podrán utilizar libremente un **laberinto de prueba** distinto al de competencia.  
 
-5.2.3 Finalizado el tiempo de prueba, cada participante entregará el robot al Jurado y esperará su turno, **sin poder realizar modificaciones** sobre el robot. 
+5.3.3 Finalizado el tiempo de prueba, cada participante entregará el robot al Jurado y esperará su turno, **sin poder realizar modificaciones** sobre el robot. 
 
 Una vez entregado al jurado, el robot permanecerá bajo supervisión en la mesa de control o en un área designada. Los equipos no podrán retirarlo ni manipularlo salvo en los intervalos autorizados (ej.: entre configuraciones).
 
-5.2.4 El Jurado armará la configuración de laberinto a resolver, determinará el orden de participación e iniciará la **primera ronda**.  
+5.3.4 El Jurado armará la configuración de laberinto a resolver, determinará el orden de participación e iniciará la **primera ronda**.  
 
-5.2.5 Cada configuración contempla **dos rondas por robot**. El mejor resultado se tomará en cuenta para la puntuación.  
+5.3.5 Cada configuración contempla **dos rondas por robot**. El mejor resultado se tomará en cuenta para la puntuación.  
 
-5.2.6 Una vez finalizadas las rondas de la primera configuración, los equipos dispondrán de un **mínimo de 30 minutos** para trabajar sobre el robot antes de iniciar la segunda configuración.  
+5.3.6 Una vez finalizadas las rondas de la primera configuración, los equipos dispondrán de un **mínimo de 30 minutos** para trabajar sobre el robot antes de iniciar la segunda configuración.  
 
-5.2.7 El representante situará el robot en la posición y orientación indicada por el Jurado y esperará la orden de inicio.  
+5.3.7 El representante situará el robot en la posición y orientación indicada por el Jurado y esperará la orden de inicio.  
 
-5.2.8 Mientras se realiza la prueba, **no se podrá retirar el robot** hasta que todos los participantes terminen la segunda ronda.  
+5.3.8 Mientras se realiza la prueba, **no se podrá retirar el robot** hasta que todos los participantes terminen la segunda ronda.  
 
-5.2.9 Se tomará el **tiempo oficial** cuando el robot alcance la llegada. 
+5.3.9 Se tomará el **tiempo oficial** cuando el robot alcance la llegada. 
 
 El tiempo oficial se detendrá cuando el robot ingrese completamente en la celda de llegada (piso blanco), sin ser necesario detener su movimiento dentro de ella.  
 
-5.2.10 El representante puede solicitar reiniciar el recorrido. En este caso:  
+5.3.10 El representante puede solicitar reiniciar el recorrido. En este caso:  
 - El robot volverá al punto de partida.  
 - Se aplicará una **penalización**.  
 - El tiempo acumulado hasta el reinicio se mantiene.  
 
-5.2.11 Cada robot contará con un **tiempo máximo de recorrido** fijado por el Jurado.  
+5.3.11 Cada robot contará con un **tiempo máximo de recorrido** fijado por el Jurado.  
 - Si no logra completarlo, se calculará la **distancia restante hasta la llegada**, medida en celdas por el camino más corto posible.  
 
 ---

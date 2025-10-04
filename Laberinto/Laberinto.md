@@ -61,8 +61,8 @@ Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio
 5.1.5 Al finalizar la **segunda ronda de la segunda configuración**, se dará por **terminada la prueba**. Para la clasificación final se considerará primero si el robot completó el laberinto en cada configuración. Entre quienes lo completaron se aplicarán los criterios de tiempo y penalizaciones; entre quienes no lo completaron se usará distancia restante y penalizaciones.
 
 **Criterios de clasificación (en este orden):**
-1) **Menor tiempo de resolución** del laberinto (**sin penalidades**).  
-2) **Menor tiempo de resolución** con **menor cantidad de penalidades**.  
+1) **Menor tiempo de resolución** (**sin penalidades**).  
+2) **Menor tiempo de resolución** con **menor cantidad de penalidades**. 
 3) **Menor recorrido restante** hasta la salida (**sin penalidades**).  
 4) **Menor recorrido restante** con **menor cantidad de penalidades**.  
 

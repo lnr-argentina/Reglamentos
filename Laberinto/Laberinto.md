@@ -69,10 +69,11 @@ Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio
 4) **Menor recorrido restante** con **menor cantidad de penalidades**.  
 
 #### 5.2.2 Clasificación grupal:
-1) **Menor tiempo promedio** **sin penalidades**.  
-2) **Menor tiempo promedio** con **menor cantidad de penalidades promedio**. 
-3) **Menor recorrido restante promedio** hasta la salida **sin penalidades**.  
-4) **Menor recorrido restante promedio** con **menor cantidad de penalidades promedio**.  
+1) Encontrar la llegada (siempre va a premiar mejor el caso que resuelva las dos configuraciones).
+2) **Menor tiempo promedio** **sin penalidades**.  
+3) **Menor tiempo promedio** con **menor cantidad de penalidades promedio**. 
+4) **Menor recorrido restante promedio** hasta la salida **sin penalidades**.  
+5) **Menor recorrido restante promedio** con **menor cantidad de penalidades promedio**.  
 
 
 ### 5.3 Rutina

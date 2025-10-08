@@ -57,6 +57,38 @@ Los lugares propuestos para la realización de Finales Nacionales o Interzonales
 2. **Accesibilidad geográfica y de transporte**, evitando sedes con dificultades graves para el traslado de delegaciones.  
 3. Condiciones adecuadas de **infraestructura** (espacio, seguridad, electricidad, conectividad, etc.) para el desarrollo del evento.
 
+## Art. 9 bis – Condiciones para ser Pre-Sede y continuidad como Sede Regular
+
+### 1. Requisitos para ser Pre-Sede
+- Toda institución que aspire a incorporarse como **Pre-Sede** deberá organizar, al menos, **una fecha por cada modalidad principal** de la LNR:  
+  - **Sumo** (incluye variantes Mini Sumo y Sumo Pro)  
+  - **Carreras** (incluye Carreras Pro)  
+  - **Laberinto**  
+  - **Fútbol**  
+
+- Antes de su aprobación, la institución deberá enviar **imágenes actualizadas** de las pistas, tatamis y áreas de competencia, para su verificación por la Comisión Directiva.  
+- Se exigirá un **mínimo de cuatro (4) robots por categoría** efectivamente presentes y registrados en el sistema de gestión oficial.  
+- Cada competencia deberá desarrollarse bajo el sistema de fiscalización digital (**sistema.lnr-argentina.com.ar**) para validar resultados oficiales.  
+- Las Pre-Sedes deberán hacerse cargo de los **viáticos y gastos básicos de al menos un (1) veedor oficial** designado por la LNR.
+
+### 2. Evaluación de continuidad
+- Las Pre-Sedes serán evaluadas por la Comisión Directiva una vez concluida la temporada.  
+- En caso de cumplimiento satisfactorio de los requisitos técnicos, administrativos y de conducta institucional, podrán ser promovidas a **Sede Regular** para el año siguiente.  
+- El incumplimiento de cualquiera de las condiciones establecidas implicará la exclusión automática del calendario del año siguiente.
+
+---
+
+## Art. 9 ter – Estándares obligatorios para Sedes Interzonales y Finales
+
+- Toda sede de **Final o Interzonal** deberá disponer de:
+  1. **Áreas de competencia filmadas**.  
+  2. **Área de talleres y reparación**.  
+  3. **Sistema de acreditación física** mediante pulseras o gafetes, registrando el ingreso de competidores, acompañantes y técnicos.  
+  4. **Cobertura de seguro vigente** para todos los participantes y asistentes al evento.  
+  5. Cumplimiento estricto del reglamento técnico y general de la LNR.  
+
+- El incumplimiento de alguno de estos puntos será considerado **falta grave**, pudiendo derivar en sanción o pérdida del derecho de postularse como sede en temporadas futuras.  
+
 **Art. 10 – Aceptación del reglamento**  
 La confirmación de participación por parte de una sede implica la aceptación plena de las disposiciones y sanciones establecidas en el presente reglamento.
 

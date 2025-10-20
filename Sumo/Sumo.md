@@ -39,8 +39,16 @@ Todas las dimensiones incluyen cualquier elemento en reposo (sensores, cuchillas
 
 ## 4) Homologación
 Antes de competir, cada robot deberá:
-- Pasar control de **peso** y **dimensiones**.  
-- Demostrar **funcionamiento del sistema de inicio** (tiempo de seguridad de 5 s en autónomos / señal de juez en RC).  
+- Control de **peso** y **dimensiones**.  
+
+Verificación del sistema de inicio
+
+- Todos los robots deben contar con un tiempo de seguridad de 5 segundos antes de iniciar movimiento en modo autónomo.    
+
+Esta condición no se verificará obligatoriamente en la homologación inicial, pero podrá ser solicitada por el jurado en cualquier momento de la competencia, ya sea de oficio o a pedido de un competidor.
+Se permitirá el uso de registros en video como prueba válida en caso de sospecha de que un robot inicia movimiento antes del tiempo reglamentario.
+Si se comprueba que el robot inicia antes de los 5 segundos, se aplicará la sanción correspondiente (penalización, pérdida de ronda o descalificación, según la gravedad y la reincidencia).
+
 - Responder a la prueba de **sustancias prohibidas** (ver Reglamento General).  
 
 Los robots que no cumplan no podrán competir.

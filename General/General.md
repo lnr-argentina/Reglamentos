@@ -131,12 +131,21 @@ El Campeonato Nacional se organiza en zonas:
 
 
 **Desempates especiales (previos a la Final):**  
-- Si 2 robots empatan en **puntos y promedio** en su zona, se define con **match de desempate** antes de la Final.
-
+- Si 2 o más robots empatan en **puntos y promedio** en su zona, se define con **match de desempate** antes de la Final.
 
 **Ventaja deportiva por zona (en caso de empate en la Final):**  
-- Si dos participantes empatan en puntos finales, prevalece quien obtuvo **mejor posición zonal** (ej.: si el campeón de la Final fue 2º zonal y el subcampeón fue 1º zonal, el **Campeón LNR** será el que fue **1º zonal**).
+- Si dos participantes empatan en puntos finales, prevalece quien obtuvo **mejor posición zonal** 
 
+> **Caso ejemplo:**
+> - Competidor A → 1º zonal (100 pts) + 3º en la Final (70 pts) = **170 pts**  
+> - Competidor B → 3º zonal (70 pts) + 1º en la Final (100 pts) = **170 pts**  
+>  
+> En este caso, ambos empatan en puntaje total.  
+> El título se otorga al competidor que obtuvo **mejor posición zonal previa** (Competidor A).
+
+> **Nota:**  
+> La ventaja deportiva solo aplica en caso de **igualdad numérica exacta en los puntos finales**.  
+> Si existe diferencia de puntaje (aunque sea mínima), no se considera empate y prevalece el mayor puntaje total.
 
 ---
 

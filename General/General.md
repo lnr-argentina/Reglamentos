@@ -116,11 +116,11 @@ El Campeonato Nacional se organiza en zonas:
 ### 7.2) Puntajes en la Final
 - Se ponen en juego **N_final** puntos (N_final = robots finalistas).
 - Asignación previa por **posición zonal** (ejemplo con N_final=100):
-  - Todos los **1º zonales**: **100 pts**
-  - Todos los **2º zonales**: **85 pts**
-  - Todos los **3º zonales**: **70 pts**
-  - Todos los **4º zonales**: **55 pts**
-  - Del **5º zonal en adelante** o sin mínimo de participación: **40 pts**
+  - Todos los **1º zonales**: **100 %**
+  - Todos los **2º zonales**: **85 %**
+  - Todos los **3º zonales**: **70 %**
+  - Todos los **4º zonales**: **55 %**
+  - Del **5º zonal en adelante** o sin mínimo de participación: **40 %**
 - Luego, durante la Final, se aplican los puntos por desempeño propios del evento:
   - 1º: 100%
   - 2º: 80%

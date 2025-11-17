@@ -79,12 +79,11 @@ El jurado puede **reverificar** en cualquier momento (peso, medidas, LED, impuls
 
 ### 7.1 Indicaciones previas
 - Verificación de identidad del robot adversario (imagen sistema/etiqueta del evento).  
-- **Ruedas sin adherentes** (prueba en hoja).  
-- **Pruebas libres** Antes de la primera ronda, los equipos podrán hacer pruebas libremente sobre la
+- **Pruebas libres** Antes del primer encuentro del evento, los equipos podrán hacer pruebas libremente sobre la
 pista. El resto de las pruebas deberá ser consensuada con los jueces, **a criterio del jurado**. 
 - Podrá convocarse a **todos los competidores** de una llave/grupo para agilizar la secuencia.  
 - Formato general: **Fase de grupos**, **eliminación directa**, **tercer puesto** y **final** (según defina el sistema).  
-- Una **ronda** puede consistir en **2, 3 o 5 carreras** (según instancia/cantidad de inscriptos) y como lo defina la organización del evento.  
+- Un **encuentro** puede consistir en **2, 3 o 5 carreras** (según instancia/cantidad de inscriptos) y como lo defina la organización del evento.  
 - El **tiempo máximo** por carrera y la cantidad de vueltas por carrera se definirá antes del inicio del torneo y en las instancias finales se podrá acordar entre los participantes, la cantidad de carreras para definir el avance de instancia.  
 
 ### 7.2 Inicio
@@ -101,34 +100,69 @@ pista. El resto de las pruebas deberá ser consensuada con los jueces, **a crite
 - A la orden del juez, se **encienden** los robots (LED de largada visible).  
 - Durante la carrera, nadie ingresa al **área de competencia** sin autorización.
 
+### 7.4 Uso de dispositivos electrónicos
+Durante la competencia oficial en los encuentros, se prohíbe el uso de
+computadoras, notebooks, tablets u otros dispositivos que permitan reprogramación
+extensa o análisis avanzado del robot. 
+
+Solo se permitirá el uso de **teléfonos celulares** exclusivamente para:
+- Cargar configuraciones previamente desarrolladas.
+- Ajustar parámetros rápidos.
+- Controlar aplicaciones necesarias para iniciar el robot o seleccionar perfiles.
+
+Los ajustes, cargas o cambios solo pueden realizarse durante el tiempo permitido
+entre carreras (1 minuto reglamentario) y sin asistencia de terceros externos.
+
+Queda totalmente prohibido:
+- Programar o reprogramar código durante un encuentro, a excepción de hacerlo en el tiempo adicional.
+- Conectarse remotamente con una PC o dispositivo externo.
+
+Durante **horarios de práctica y calibración autorizados**, quedará libre el uso de
+computadoras, notebooks y tablets.
+
 ---
 
 ## 8) Sanciones
 
-### 8.1 Faltas que **reinician** la carrera
-- Largar **antes** de la orden del árbitro.  
-- Activar **cualquier sistema** antes de la señal de inicio.
+Todas las infracciones se clasifican en dos tipos: **Faltas** y **Pérdida directa de carrera**.
 
-Cuando la carrera se haya reiniciado se volverá a empezar inmediatamente desde las posiciones de inicio **sin** poder intervenir sobre robot para realizar algún mantenimiento.
+### 8.1 FALTAS (la carrera continúa o se reinicia)
+Se considera Falta cuando la acción infringe el reglamento pero no genera contacto, interferencia,
+ni daño sobre el rival. Ejemplos:
 
-### 8.2 Faltas que **no reinician** la carrera
-- Ingresar al área de pista **sin autorización** (incluye miembros no responsables).  
-- Solicitud **injustificada** de parar.  
+- Maniobras prohibidas sin contacto (vuelta en U, 360°, cambio de carril sin colisión).  
+- Desprendimiento de piezas.  
+- Ingreso al área de pista sin consecuencias deportivas.  
+- Largada prematura o activación antes de la orden (reinicio sin penalización de carrera).  
+- Activar cualquier sistema antes de la señal de inicio. Ej. Turbinas sea el caso.  
 - **Tiempo Adicional** concedido (ver §12).  
-- **Desprendimiento** de piezas (si no interfiere al rival ni vulnera seguridad).
 
-### 8.3 Penalizaciones (pérdida de la carrera)
-- **Interferencia** al rival por pieza **desprendida**.  
-- No cruzar **completamente** la línea de largada **en 10 segundos** tras la orden (si **ninguno** cruza en 10 s → **empate** y se pasa a la siguiente carrera).  
-- Permanecer **10 s inmóvil** en cualquier parte del recorrido, salvo que en ese instante sea quien **va adelante**; en tal caso, la cuenta inicia cuando el rival lo **supere**.  
-- Ser **alcanzado** en una pista con **cruce**, antes de cumplir las “n” vueltas.  
-- **Adherencia prohibida** (pegamentos, etc.).  
+Acumulación:
+- **Dos (2) faltas equivalen a pérdida de carrera por 1–0.**
+
+### 8.2 PÉRDIDA DE LA CARRERA
+- Ser **alcanzado** en una pista con **cruce**, antes de cumplir las “n” vueltas. No penaliza como Colision del punto 8.3. 
 - Salirse **completamente** de la pista y que el adversario **supere** el punto de salida.  
+
+
+### 8.3 PÉRDIDA DEL ENCUENTRO (PENALIZACIÓN)
+El piloto pierde automáticamente la totalidad del encuentro cuando en la carrera se genera acción de contacto, interferencia,
+afectación o riesgo sobre el rival o su recorrido. Ejemplos:
+
+- Maniobra prohibida con colisión.
+- Desprendimiento de pieza que hace contacto con el rival.
+- Colisión, bloqueo, empuje o cualquier contacto.
+- Ingreso al área de pista con consecuencias deportivas.  
 - El capitán **no** se presenta por estar compitiendo en otra categoria.  
-- Maniobras consideradas **caída en el punto** (el rival debe superar ese punto):
-  - **Vuelta en U**.  
-  - **Vuelta 360°** o más.  
-  - **Cambio de carril**.
+
+Penalización: Implica resultado de **2–0.**
+
+| Situación                      | Consecuencia                   | Resultado        |
+| ------------------------------ | ------------------------------ | ---------------- |
+| Falta sin riesgo ni contacto   | Suma 1 Falta                   | Continúa         |
+| 2 Faltas acumuladas            | Pérdida de carrera             | 1–0              |
+| Contacto, riesgo o bloqueo     | Pérdida de encuentro           | 2–0              |
+
 
 ---
 
@@ -148,25 +182,27 @@ Cuando la carrera se haya reiniciado se volverá a empezar inmediatamente desde 
 
 ---
 
-## 11) Definición de la ronda y fin
-- Gana la **ronda** el robot que alcance **2 o 3 puntos** (según instancia).  
+## 11) Definición de la encuentro y fin
+- Gana el **encuentro** el robot que alcance **2 o 3 puntos** (según instancia).  
 - Si tras **3 o 5 carreras** nadie alcanza el umbral, gana quien tenga **más puntos**; si empatan, la ronda se declara **empate** según formato del torneo o lo que dictamine el sistema de gestión.
+
+
 
 ---
 
 ## 12) Tiempo adicional
 - **Una sola vez** en todo el torneo, el equipo puede pedir **5 min** de **tiempo adicional** por daño/mal funcionamiento.  (Reglamento General)
 - El conteo inicia cuando el participante llega a su **box**; el oponente deja su robot **en pista** y **no** puede intervenirlo.  
-- Si no se resuelve a tiempo, la ronda/carrera se da por **finalizada** a favor del rival (**2 o 5–0**, según instancia).  
+- Si no se resuelve a tiempo, el encuentro/carrera se da por **finalizada** a favor del rival (**2 o 5–0**, según instancia).  
 - La concesión queda a **criterio del juez** y se asigna **una falta** al solicitante (no reinicia la carrera por sí misma).
 
 ---
 
 ## 13) Glosario
 - **Recorrido:** tramo de pista.  
-- **Carrera:** enfrentamiento entre dos participantes para cumplir el objetivo (una o más vueltas).  
-- **Ronda:** serie de carreras hasta definir un ganador del emparejamiento.  
-- **Competencia:** fecha/evento donde se disputan las rondas.
+- **Carrera:** recorrido entre dos robots para cumplir el objetivo (una o más vueltas).  
+- **Encuentro:** serie de carreras a definir entre dos robots.  
+- **Competencia:** fecha/evento donde se disputan los encuentros.
 
 ---
 

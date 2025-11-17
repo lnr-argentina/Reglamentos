@@ -28,9 +28,9 @@ Los robots que no cumplan con estas condiciones podrán ser descalificados de la
 ---
 
 ## 4) Área de competencia
-- El área se compone de celdas de **25 × 25 cm (± 0,5 cm)** medidos de pared interior a pared interior, con una tolerancia de ±0,5 cm.  
+- El área se compone de celdas de **18 × 18 cm (± 0,5 cm)** medidos de pared interior a pared interior, con una tolerancia de ±0,5 cm.  
 - Piso: madera pintada de negro mate.  
-- Paredes: blancas, **15 cm (± 0,5 cm)** de altura.  
+- Paredes: blancas, **10 cm (± 0,5 cm)** de altura.  
 - El punto de partida será una celda determinada por el jurado al inicio de la competencia.  
 - La partida será una celda de tres paredes. Puede estar en el punto más alejado de la llegada, o no.  
 - La llegada será una única celda, marcada con piso de color blanco.  
@@ -50,7 +50,9 @@ Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio
 
 5.1.1 Cada robot deberá completar **dos configuraciones del laberinto**, ambas **determinadas por el Jurado**. Para cada configuración, el Jurado fijará un **tiempo máximo**.
 
-5.1.2 En **cada configuración** habrá **dos rondas por robot**. En cada ronda se registrarán **tiempo**, **penalidades** y **distancia restante hasta la llegada**. Para la configuración, se tomará **la mejor ronda** del robot segun los Criterios de clasificación personal (5.2.1).
+5.1.2 En **cada configuración** habrá **5 pasadas por robot**. En cada pasada se registrarán:
+- El tiempo de resolución, si el robot alcanza la celda de llegada.  
+- O bien, la distancia restante hasta la llegada, medida en celdas por el camino más corto posible, si no la alcanza en el momento que se alcanzó el tiempo máximo o no llegó.
 
 5.1.3 Secuencia: una vez que **todos los robots** participantes hayan completado la **primera configuración**, el Jurado **determinará la segunda**; se realizarán nuevamente **dos rondas** por robot y se tomará **la mejor** para esa configuración.
 
@@ -58,22 +60,28 @@ Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio
 - **Su posición** al finalizar el tiempo.
 - **La distancia restante** hasta la llegada, medida como **número de celdas** por el **camino más corto** posible.
 
-5.1.5 Al finalizar la **segunda ronda de la segunda configuración**, se dará por **terminada la prueba**. Con los resultados de las dos configuraciones se tomará **la mejor ronda** del robot segun los Criterios de clasificación grupal (5.2.2).
+5.1.5 Al finalizar la quinta pasada de la segunda configuración, se dará por terminada la prueba.
+Con los resultados de las dos configuraciones se tomará la mejor pasada del robot según los Criterios de clasificación grupal (5.2.2).
 
 ### 5.2 Criterios de clasificación (orden en nivel de prioridades):
 
 #### 5.2.1 Clasificación personal:
-1) **Menor tiempo de resolución** **sin penalidades**.  
-2) **Menor tiempo de resolución** con **menor cantidad de penalidades**.  
-3) **Menor recorrido restante** hasta la salida **sin penalidades**.  
-4) **Menor recorrido restante** con **menor cantidad de penalidades**.  
+Para cada configuración, se considerará solo la mejor pasada de cada robot, según el siguiente orden de prioridad:
+
+**Robots que alcancen la llegada:**
+    1.1) Menor tiempo de resolución.  
+
+**Si no alcanzara la llegada en esa configuración, se clasificará por:**
+    2.1) Menor recorrido restante hasta la llegada.  
 
 #### 5.2.2 Clasificación grupal:
-1) Encontrar la llegada (siempre va a premiar mejor el caso que resuelva las dos configuraciones).
-2) **Menor tiempo promedio** **sin penalidades**.  
-3) **Menor tiempo promedio** con **menor cantidad de penalidades promedio**. 
-4) **Menor recorrido restante promedio** hasta la salida **sin penalidades**.  
-5) **Menor recorrido restante promedio** con **menor cantidad de penalidades promedio**.  
+Para la clasificación final del evento se utilizarán, de cada robot, las mejores pasadas obtenidas en cada configuración. El orden de prioridad será:
+
+ **1. Mayor cantidad de configuraciones resueltas**: Se priorizarán primero los robots que resuelvan las 2 configuraciones, luego los que resuelvan 1, y por último los que no resuelvan ninguna.
+
+ **2. Entre robots con la misma cantidad de configuraciones resueltas:** Menor tiempo total de resolución, sumando los tiempos de las configuraciones efectivamente resueltas.
+
+ **3. Si persiste el empate (por ejemplo, nadie resuelve ninguna configuración):** Menor recorrido restante promedio hasta la llegada, calculado sobre las mejores pasadas de cada configuración.
 
 
 ### 5.3 Rutina
@@ -113,37 +121,49 @@ El tiempo oficial se detendrá cuando el robot ingrese completamente en la celda
 ---
 
 ## 6) Parada de la prueba
-La prueba se detendrá cuando:
-- Lo decida el jurado.  
+La pasada se detendrá cuando:
+**6.1 Causas técnicas u operativas:**
 - Se desprenda una pieza del robot o del laberinto.  
-- Se ingrese sin autorización al área de competencia.  
-- Se supere el tiempo máximo asignado.  
+- El robot permanezca 10 segundos o más sin avanzar en la misma celda.  
+- El robot permanezca 15 segundos inmóvil o empujando una pared.  
+- Se supere el tiempo máximo asignado para la configuración.  
 - El representante solicite reinicio.  
-- El robot permanezca **15 segundos inmóvil** o **15 segundos empujando una pared**.  
-- El representante solicite **tiempo extra** (una única vez, 5 minutos, sin modificaciones ni cambios de componentes). (Reglamento General)
+- El representante solicite tiempo extra (solo una vez y sin modificación del robot).  
+- Lo decida el jurado por una razón de seguridad, integridad del robot/laberinto o falla externa ajena al equipo.  
+- Se ingrese sin autorización al área de competencia.  
+
+En todos los casos anteriores, la pasada se considerará no resuelta, registrándose distancia restante cuando corresponda.
+
+**6.2 Causas de pérdida automática de la ronda**:
+Se considerará pérdida total de la ronda cuando ocurra alguna de estas situaciones:
+- No presentarse dentro de los llamados y tiempos reglamentarios.  
+- Manipular o interferir deliberadamente con el laberinto o equipamiento.  
+- Realizar acciones consideradas intencionalmente antideportivas.  
+- Una ronda perdida por estos motivos no puntuará, no registrará distancia restante y no generará derecho a reclamo técnico.  
+
+Nota aclaratoria sobre terminología
+Pasada → intento dentro de una configuración (máx. 5)
+Ronda → resultado final de la configuración (la mejor pasada válida)
 
 ---
 
-## 7) Penalidades
-Se aplicará **penalización y reinicio** cuando:
-- El robot permanezca 10 segundos en la misma celda.  
-- El representante solicite reinicio o tiempo extra.  
+## 7) Pérdida del recorrido
+Se considerará pérdida de recorrido cuando ocurra cualquiera de las siguientes condiciones:
 
-Tras una penalización, el equipo tendrá **1 minuto** para reiniciar desde el punto de partida.
+- El robot permanezca 10 segundos o más en la misma celda sin avanzar.  
+- Se solicite reinicio por parte del representante.  
+- Se solicite tiempo extra.  
+- El robot permanezca 15 segundos o más inmóvil o empujando una pared.  
+- Se cumpla cualquier otra condición prevista para detener la prueba según el reglamento general.  
+- Se detenga la prueba por cualquiera de las causales previstas en el punto 6 (Parada de la prueba) que impliquen finalizar el intento actual.  
 
----
+Al producirse cualquiera de estas condiciones, finaliza inmediatamente el intento actual, pasando automáticamente al siguiente, sin aplicar penalización numérica.
 
-## 8) Pérdida de la ronda
-Un robot pierde la ronda cuando:
-- Se le desprende una pieza durante la misma.  
-- El equipo ingrese sin autorización al área.  
-- Alcance **3 penalizaciones** en la ronda.  
-- No se presente al ser llamado.  
-- Provoque deliberadamente un desperfecto en el laberinto.  
+Solamente se considerará tiempo válido cuando el robot alcance la celda de llegada. Si el robot no alcanza la llegada, se registrará distancia restante según lo definido en el reglamento.
 
 ---
 
-## 9) Referencias al Reglamento General
+## 8) Referencias al Reglamento General
 Para evitar duplicidad, se remite al [**Reglamento General de la LNR**](https://sistema.lnr-argentina.com.ar/reglamentos/General) en:
 - Normas de convivencia y **responsabilidad de equipo**.  
 - Autoridad de la **Organización** y **jueces**; funciones del jurado; **reverificación**.  

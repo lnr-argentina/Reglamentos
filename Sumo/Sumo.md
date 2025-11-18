@@ -58,7 +58,7 @@ a) En la categoría Sumo, Mini Sumo Pro y Micro Sumo, y RC está permitido todo 
 
 b) En la categoría Mini Sumo (no PRO) no está permitido el uso de robots comerciales ni sus partes principales (chasis, sistemas de banderas, etc). Las ruedas comerciales (llanta + caucho), si serán aceptadas para esta categoría. Las placas comerciales especializadas para la competencia tampoco están permitidas. Se podrán utilizar para la parte de control cualquier tipo de elemento electrónico básico (compuertas, transistores, operacionales, etc.) también está permitido el uso de placa Arduino o similares, microcontroladores y microprocesadores. Con respecto al sistema de potencia (puente H) se permitirá el uso de los módulos VNH2SP30, TB6612FNG, L298 o L293 queacompañan a los kits de Arduino o similares. El diseño y armado de las placas deberán ser propios de los participantes. Se podrán usar sensores comerciales (Ej. GP2DXX, SRF04, etc.).  
 
-c) No se permite diseñar el Robot que cuando empiece el juego o durante el combate se separe en diferentes partes entendiéndose por esto soltar piezas señuelos o convertir el móvil en, al menos, dos autómatas; el Robot que lo haga, perderá el combate.  
+c) No se permite diseñar el Robot que cuando empiece el juego o durante el combate se separe en diferentes partes.
 
 d) Está permitido desplegar estructuras una vez iniciado el combate, siempre y cuando el robot se mantenga en una sola pieza.  
 
@@ -110,14 +110,13 @@ Las interferencias accidentales por solapamiento de frecuencias no se considerar
 
 ### 5.2 Rutina de combate
 - Sólo el/la capitán del equipo puede entrar en el área de competencia. Ningún otro miembro está autorizado.
-- Robots se ubican detrás de las líneas de inicio, de manera lateral paralela (no enfrentados). Esta regla puede ser exceptuada por el jurado en casos excepcionales.
+- Robots se ubican detrás de las líneas de inicio. Esta regla puede ser exceptuada por el jurado en casos excepcionales.
 - El árbitro da la orden de posicionar los robots sobre el ring. Deben apoyarse simultáneamente y no se pueden mover después de apoyados.  
 - Una vez dada la señal dispone de 30 segundos para calibrar/configurar, si es que lo necesita (acorde al "Apoyaron" semaforo de liga).
   - Intentar obtener ventaja en este proceso se considera **falta**.
 - Autónomos: deben permanecer **5 segundos inmóviles** tras la activación (tiempo de seguridad).  
 - RC: movimiento sólo a la orden del juez.
 - En casos excepcionales (mal funcionamiento de ambos robots), los jueces pueden ordenar una colocación especial (cara a cara o espalda con espalda).
-- Antes de iniciar, se permiten ajustes de estrategia mediante interruptores o controles (en autónomos, sólo para configuración, no operación).
 - Una vez dada la orden, los robots se encienden.  
   - Si se usan mandos a distancia para encender, no podrán mantenerse en la mano: deben dejarse en el suelo, a la vista de jueces, y no podrán operarse durante el combate en categorías autónomas.  
   - Durante el combate, los mandos no pueden apuntar hacia la pista en categorías autónomas.
@@ -154,18 +153,17 @@ Ver **Reglamento General – Tablas de posiciones** para el cálculo de tablas e
 ### 7.2 Faltas (que NO reinician el asalto)
 - Entrar en el área de Combate sin autorización previa del árbitro. Ej.: pisar la línea blanca de seguridad.
 - Petición injustificada de parar el juego. O la entrada en el área de combate de algún miembro del equipo no responsable.
-- La caída de piezas del Robot.
 - Hacer o decir algo que atente contra la integridad de la competición y/o de la organización.
 - Tener el mando de encendido en la mano.
 - Si se pide tiempo y no se resuelve el problema se dará por finalizado el combate, resultando vencedor el otro equipo por Dos (2) puntos Yuhkoh a Cero (0). Al equipo solicitante se lo sancionará con una falta en su contra.
 
 ### 7.3 Penalizaciones
+- Desprendimiento de una pieza. (Sujeto a definición del arbitro si es considerable).
 - Superar peso/dimensiones permitidos.  
 - Uso de sustancias prohibidas (pegamento, succión, etc.).  
 - Control remoto en autónomos.  
 - Conducta antideportiva.  
 - Superar el minuto entre asalto y asalto sin solicitud previa.
-- La separación en diferentes piezas o partes del Robot una vez empezado el combate salvando el caso de avería.
 - La utilización de dispositivos que lancen líquido, polvo, gases o sólidos al oponente.
 - El uso de dispositivos inflamables.
 - Causar desperfectos de forma deliberada al oponente.
@@ -178,7 +176,6 @@ Efecto: pérdida automática del combate (2–0).
 ### 7.4 Descalificación
 - Uso comprobado de sustancias prohibidas (test hoja A4).  
 - Conducta antideportiva grave o reincidencia.  
-- Manipulación dolosa de reglamento o robot.  
 - Intervención remota reiterada en categorías autónomas.  
 
 Efecto: expulsión de la categoría en el evento.
@@ -194,7 +191,6 @@ a.3) En caso de que los dos robots salgan al mismo tiempo y no pueda determinase
 a.4) Por la acumulación de dos faltas del equipo contrario en el mismo combate.  
 a.5) Si el jurado no detecta movimiento durante de 5 segundos es considerado como no tener la voluntad de luchar, en este caso, el oponente recibirá un punto “Yuhkoh”, siempre y cuando el oponente siga moviéndose.  
 a.6) Se otorgarán dos puntos Yuhkoh directos si el contrario es penalizado, perdiendo el combate.  
-a.7) Una pieza desprendida del Robot contrario toca el suelo fuera del ring y se deberá anular la falta previamente otorgada.  
 
 ---
 ### 9) Detención del asalto

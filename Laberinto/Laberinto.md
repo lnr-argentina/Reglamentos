@@ -14,9 +14,9 @@ El objetivo de la modalidad “Laberinto” es encontrar la llegada en el menor 
 
 ## 3) Características técnicas del robot
 3.1 El robot podrá llevar visible el nombre del equipo o institución.  
-3.2 No existen dimensiones máximas, pero deben ser compatibles con el tamaño del laberinto (giros en celdas de 25 cm).  
+3.2 No existen dimensiones máximas, pero deben ser compatibles con el tamaño del laberinto (giros en celdas de 18 cm).  
 3.3 El robot no puede tener elementos que dañen el circuito.  
-3.4 Debe contar con un **interruptor visible y accesible** para detenerlo inmediatamente. El interruptor debe ser visible y accesible quedando a criterio de los jueces el cumplimiento de este requerimiento.  
+3.4 Debe contar con un **interruptor visible y accesible** debe ser visible y accesible, quedando a criterio de los jueces el cumplimiento de este requerimiento.  
 3.5 Deben ser **completamente autónomos** (sin conexión o control externo). Está permitido transmitir datos telemétricos, pero el robot debe funcionar sin ese enlace si lo solicita el jurado.  
 3.6 Prohibido operar sobre el robot una vez comenzada la prueba.  
 3.7 Motorización: solo **motores eléctricos** alimentados por baterías.  
@@ -28,9 +28,9 @@ Los robots que no cumplan con estas condiciones podrán ser descalificados de la
 ---
 
 ## 4) Área de competencia
-- El área se compone de celdas de **18 × 18 cm (± 0,5 cm)** medidos de pared interior a pared interior, con una tolerancia de ±0,5 cm.  
-- Piso: madera pintada de negro mate.  
-- Paredes: blancas, **10 cm (± 0,5 cm)** de altura.  
+- El área se compone de celdas de **18 × 18 x 10 cm (± 0,5 cm)** o **25 × 25 x 15 cm (± 0,5 cm) (*)** medidos de centro a centro, con una tolerancia de ±0,5 cm.  (Ancho x Largo x Alto cm)
+- Piso: negro mate.  
+- Paredes: blancas.  
 - El punto de partida será una celda determinada por el jurado al inicio de la competencia.  
 - La partida será una celda de tres paredes. Puede estar en el punto más alejado de la llegada, o no.  
 - La llegada será una única celda, marcada con piso de color blanco.  
@@ -40,7 +40,12 @@ Los robots que no cumplan con estas condiciones podrán ser descalificados de la
 - No deben haber postes sueltos, es decir columnas sin paredes contiguas que formen celdas de 2x2.  [Imagen celda gigante](img_mp/20250913_garin.jpeg)
 - No deben existir celdas fraccionarias, ejemplo celda y media.  
 
-Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio de 25x25 cm.
+Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio de 18x18 cm o 25x25 cm (*).
+
+(*) Año de transición: Durante el presente año se habilita el uso de laberintos construidos con celdas de 18×18x10 cm o 25×25x15 cm. Cada sede podrá utilizar cualquiera de las variantes sin obligación de unificación. 
+Es responsabilidad exclusiva de cada equipo diseñar su robot de modo compatible con ambas dimensiones, siendo no imputable a la organización si el robot no ingresa, queda atascado o no puede maniobrar debido a su tamaño o diseño.
+La adopción definitiva del estándar internacional se implementará a partir de 2027, dejando fuera las medidas 25x25x15 cm. Pensando también en un año 2028 de 5cm de altura de pared. 
+
 
 ---
 
@@ -52,15 +57,11 @@ Definición de celda: Una celda es una unidad cuadrada delimitada por un espacio
 
 5.1.2 En **cada configuración** habrá **5 pasadas por robot**. En cada pasada se registrarán:
 - El tiempo de resolución, si el robot alcanza la celda de llegada.  
-- O bien, la distancia restante hasta la llegada, medida en celdas por el camino más corto posible, si no la alcanza en el momento que se alcanzó el tiempo máximo o no llegó.
+- O bien, la distancia restante hasta la llegada, medida en celdas por el camino más corto posible, desde la celda donde se agotó el tiempo.
 
 5.1.3 Secuencia: una vez que **todos los robots** participantes hayan completado la **primera configuración**, el Jurado **determinará la segunda**; se realizarán nuevamente **dos rondas** por robot y se tomará **la mejor** para esa configuración.
 
-5.1.4 Si el robot **no resuelve** el laberinto dentro del **tiempo máximo** (en cualquiera de las configuraciones), el Jurado determinará:
-- **Su posición** al finalizar el tiempo.
-- **La distancia restante** hasta la llegada, medida como **número de celdas** por el **camino más corto** posible.
-
-5.1.5 Al finalizar la quinta pasada de la segunda configuración, se dará por terminada la prueba.
+5.1.4 Al finalizar la quinta pasada de la segunda configuración, se dará por terminada la prueba.
 Con los resultados de las dos configuraciones se tomará la mejor pasada del robot según los Criterios de clasificación grupal (5.2.2).
 
 ### 5.2 Criterios de clasificación (orden en nivel de prioridades):
@@ -110,14 +111,6 @@ Una vez entregado al jurado, el robot permanecerá bajo supervisión en la mesa 
 
 El tiempo oficial se detendrá cuando el robot ingrese completamente en la celda de llegada (piso blanco), sin ser necesario detener su movimiento dentro de ella.  
 
-5.3.10 El representante puede solicitar reiniciar el recorrido. En este caso:  
-- El robot volverá al punto de partida.  
-- Se aplicará una **penalización**.  
-- El tiempo acumulado hasta el reinicio se mantiene.  
-
-5.3.11 Cada robot contará con un **tiempo máximo de recorrido** fijado por el Jurado.  
-- Si no logra completarlo, se calculará la **distancia restante hasta la llegada**, medida en celdas por el camino más corto posible.  
-
 ---
 
 ## 6) Parada de la prueba
@@ -127,7 +120,7 @@ La pasada se detendrá cuando:
 - El robot permanezca 10 segundos o más sin avanzar en la misma celda.  
 - El robot permanezca 15 segundos inmóvil o empujando una pared.  
 - Se supere el tiempo máximo asignado para la configuración.  
-- El representante solicite reinicio.  
+- El representante solicite parada de la prueba.  
 - El representante solicite tiempo extra (solo una vez y sin modificación del robot).  
 - Lo decida el jurado por una razón de seguridad, integridad del robot/laberinto o falla externa ajena al equipo.  
 - Se ingrese sin autorización al área de competencia.  
@@ -151,13 +144,12 @@ Ronda → resultado final de la configuración (la mejor pasada válida)
 Se considerará pérdida de recorrido cuando ocurra cualquiera de las siguientes condiciones:
 
 - El robot permanezca 10 segundos o más en la misma celda sin avanzar.  
-- Se solicite reinicio por parte del representante.  
 - Se solicite tiempo extra.  
 - El robot permanezca 15 segundos o más inmóvil o empujando una pared.  
 - Se cumpla cualquier otra condición prevista para detener la prueba según el reglamento general.  
 - Se detenga la prueba por cualquiera de las causales previstas en el punto 6 (Parada de la prueba) que impliquen finalizar el intento actual.  
 
-Al producirse cualquiera de estas condiciones, finaliza inmediatamente el intento actual, pasando automáticamente al siguiente, sin aplicar penalización numérica.
+Al producirse cualquiera de estas condiciones, finaliza inmediatamente el intento actual, pasando automáticamente al siguiente.
 
 Solamente se considerará tiempo válido cuando el robot alcance la celda de llegada. Si el robot no alcanza la llegada, se registrará distancia restante según lo definido en el reglamento.
 

@@ -15,30 +15,28 @@ Este reglamento **complementa** al **Reglamento General de la LNR** y remite a �
 
 ## 2) Categorías
 - **Carrera Pro**: se permiten impulsores (p. ej., turbinas/aspas) para aumentar adherencia/empuje, con las restricciones de software y seguridad indicadas en este reglamento.  
-- **Carrera**: **no** se permiten impulsores o sistemas de succión/empuje (turbinas, palas, etc.). Solo el **peso propio** y tracción del robot.
+- **Carrera**: **no** se permiten impulsores o sistemas de succión/empuje (turbinas/impulsores/palas/succión etc.). Solo el **peso propio** y tracción del robot.
 
 ---
 
 ## 3) Objetivo
-Recorrer el circuito siguiendo la línea y **completar “n” vueltas** antes que el rival. Se corre en **dos carriles** paralelos que recorren el mismo trazado. O en el que más lejos llegue en caso de no completar las vueltas por los participantes.
+Recorrer el circuito siguiendo la línea y **completar “n” vueltas** antes que el rival, o llegar más lejos en caso que ninguno complete las vueltas. Se corre en **dos carriles** paralelos que recorren el mismo trazado. 
 
 ---
 
 ## 4) Características técnicas del robot
 
 ### 4.1 Aspectos generales
-- El robot deberá llevar un código visible de 1 cm x 2 cm **como el numero de homologación**, deberá disponer de este area para poder identificarlo en la homologación por la organización.  
+- El robot deberá llevar un código visible de 1 cm x 2 cm **como el numero de homologación**, deberá disponer de este area para poder identificarlo en la homologación por la organización (no puede ser parte de la batería).
 
 ### 4.2 Hardware
 - **Dimensiones máximas:** 20 cm (largo) × 14 cm (ancho) × 10 cm (alto).  
-- **Autonomía:** luego de la largada **no** puede operarse; si hay control remoto para encendido/parada, podrá exigirse dejarlo en la mesa del juez tras la largada.  
+- **Autonomía:** luego de la largada **no** puede operarse; si hay control remoto para encendido/parada, podrá exigirse dejarlo en la mesa del juez o en el suelo tras la largada.  
   - Única orden permitida tras la largada: **parada** de emergencia.  
 - **Inicio:** remoto o por **pulsador**.  
 - **Indicador de largada:** **LED obligatorio** (fijo o intermitente) que se encienda cuando inicia la rutina de carrera.  
 - **Motorización:** motores/motorreductores **eléctricos** o **servos**.  
 - **Baterías:** se permiten cambios/recarga fuera de carrera, sin alterar forma/peso de modo significativo.  
-- **Identificación técnica:** reservar un área visible mínima de **23 × 14 mm** (no puede ser parte de la batería) para rotulación/etiqueta del evento.  
-- **Carrera (no Pro):** **prohibidos** impulsores/palas/succión.  
 - **Carrera Pro:** impulsores/aspas **permitidos**, pero deben permanecer **apagados/quietos** hasta el **semáforo verde** (ver §4.3).
 
 > **Sustancias de adherencia** en ruedas/suelo: **prohibidas**. La **prueba de hoja A4** podrá realizarse **en cualquier momento** (ver Reglamento General – Sustancias prohibidas).
@@ -54,7 +52,7 @@ Recorrer el circuito siguiendo la línea y **completar “n” vueltas** antes q
 - Las líneas conforman un **circuito cerrado**.  
 - **Ancho total de pista:** **40 cm** (± 0,5 cm), garantizando **≥ 6 cm** entre robots.  
 - Pista **elevada** sobre el nivel del suelo.  
-- **Curvas:** radio mínimo **30 cm** (± 10%), sin peralte.  
+- **Curvas:** radio mínimo **20 cm** (± 10%), sin peralte.  
 - La superficie puede tener **irregularidades**; las elevaciones no superan **20°** de pendiente.  
 - **Perímetro libre:** **≥ 1 m** alrededor, sin obstáculos.  
 - Color del circuito: a criterio del organizador (pista negra con líneas blancas o viceversa).  
@@ -95,7 +93,7 @@ pista. El resto de las pruebas deberá ser consensuada con los jueces, **a crite
 ### 7.3 Rutina de carrera
 - **Sorteo inicial**: el ganador elige carril; luego se **alterna**.  
 - El capitán coloca el robot en la **línea de largada**.  
-- Una vez dada la señal dispone de 30 segundos para calibrar/configurar, si es que lo necesita (acorde al "Apoyaron" semaforo de liga). No está permitido el uso de dispositivos como notebooks, tablets, etc. Mientras el robot esté compitiendo.
+- Una vez dada la señal dispone de 30 segundos para calibrar/configurar, si es que lo necesita (acorde al "Apoyaron" semaforo de liga). 
 - Antes/luego de posicionar, se permiten **calibraciones** (switch/controles, sensores).  
 - A la orden del juez, se **encienden** los robots (LED de largada visible).  
 - Durante la carrera, nadie ingresa al **área de competencia** sin autorización.
@@ -105,7 +103,7 @@ Durante la competencia oficial en los encuentros, se prohíbe el uso de
 computadoras, notebooks, tablets u otros dispositivos que permitan reprogramación
 extensa o análisis avanzado del robot. 
 
-Solo se permitirá el uso de **teléfonos celulares** exclusivamente para:
+Solo se permitirá el uso de **teléfonos celulares** o **controles remotos** exclusivamente para:
 - Cargar configuraciones previamente desarrolladas.
 - Ajustar parámetros rápidos.
 - Controlar aplicaciones necesarias para iniciar el robot o seleccionar perfiles.
@@ -135,6 +133,7 @@ ni daño sobre el rival. Ejemplos:
 - Ingreso al área de pista sin consecuencias deportivas.  
 - Largada prematura o activación antes de la orden (reinicio sin penalización de carrera).  
 - Activar cualquier sistema antes de la señal de inicio. Ej. Turbinas sea el caso.  
+- Las faltas son por carrera.
 - **Tiempo Adicional** concedido (ver §12).  
 
 Acumulación:
@@ -167,10 +166,10 @@ Penalización: Implica resultado de **2–0.**
 ---
 
 ## 9) Puntuación de cada carrera
-- Gana la carrera el robot que **complete primero** las **“n” vueltas** alcance al otro por pista con cruce o llegue más lejos.  
+- Gana la carrera el robot que **complete primero** las **“n” vueltas**, alcance al otro por pista con cruce o llegue más lejos.  
 - También se puede ganar por **acumulación de faltas** del rival (según aplique). Dos faltas equivalen a una carrera perdida.  
 - Si **ninguno** completa las “n” vueltas tras iniciada la carrera, gana quien haya recorrido **mayor distancia**; si hay **misma** distancia → **reinicio**.  
-- Si durante el desarrollo el oponente **toca el piso** (y va por detrás), se considera **victoria** del otro.  
+- Si durante el desarrollo un robot **toca el piso** (y va por detrás), se considera **victoria** del otro oponente.  
 - Si expira el **tiempo máximo**, gana quien tenga **mayor distancia recorrida**.
 
 
@@ -178,11 +177,11 @@ Penalización: Implica resultado de **2–0.**
 
 ## 10) Parada de la carrera
 - Se detiene cuando se cumplen faltas que la **detienen** (seguridad/juez).  
-- Al parar, se **reinicia inmediatamente** desde posiciones de inicio, **sin** intervención de mantenimiento.
+- Al parar, se **reinicia inmediatamente** desde posiciones de inicio, **sin** intervención de limpieza de ruedas o reconfiguración.  
 
 ---
 
-## 11) Definición de la encuentro y fin
+## 11) Definición de encuentro y fin
 - Gana el **encuentro** el robot que alcance **2 o 3 puntos** (según instancia).  
 - Si tras **3 o 5 carreras** nadie alcanza el umbral, gana quien tenga **más puntos**; si empatan, la ronda se declara **empate** según formato del torneo o lo que dictamine el sistema de gestión.
 
@@ -191,8 +190,8 @@ Penalización: Implica resultado de **2–0.**
 ---
 
 ## 12) Tiempo adicional
-- **Una sola vez** en todo el torneo, el equipo puede pedir **5 min** de **tiempo adicional** por daño/mal funcionamiento.  (Reglamento General)
-- El conteo inicia cuando el participante llega a su **box**; el oponente deja su robot **en pista** y **no** puede intervenirlo.  
+- **Una sola vez** en todo el torneo, el equipo puede pedir **5 min** de **tiempo adicional** por daño/mal funcionamiento.  (Reglamento General). Solo se puede pedir en el minuto de tiempo que hay entre carreras.
+- El conteo inicia cuando el participante llega a su box; el oponente deja su robot en pista y no puede intervenirlo.  
 - Si no se resuelve a tiempo, el encuentro/carrera se da por **finalizada** a favor del rival (**2 o 5–0**, según instancia).  
 - La concesión queda a **criterio del juez** y se asigna **una falta** al solicitante (no reinicia la carrera por sí misma).
 

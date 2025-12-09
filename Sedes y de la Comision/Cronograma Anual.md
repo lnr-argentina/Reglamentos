@@ -76,13 +76,14 @@
 - Inicio oficial del calendario competitivo con las primeras fechas zonales.  
 - Fiscalización y registro digital a través del sistema [**sistema.lnr-argentina.com.ar**](https://sistema.lnr-argentina.com.ar).  
 
+---
 
 ## **Procedimiento anual para la incorporación de nuevas Pre-Sedes**
 
-1. **Apertura de convocatoria**  
+10.1. **Apertura de convocatoria**  
    Cada **dos (2) meses** se habilitará el formulario de **Preinscripción de Pre-Sedes**, donde las instituciones podrán manifestar su interés en organizar un evento supervisado por la LNR.
 
-2. **Comunicación y capacitación previa**  
+10.2. **Comunicación y capacitación previa**  
    Una vez recibida la preinscripción, se enviará a los postulantes:  
    - El Reglamento de Sedes,  
    - El Cronograma Anual,  
@@ -91,16 +92,16 @@
 
    Antes de la reunión correspondiente, se notificará a los postulantes con la antelación adecuada.
 
-3. **Reuniones informativas anuales**  
+10.3. **Reuniones informativas anuales**  
    Se realizarán **tres (3) reuniones anuales**, donde se presentarán todas las instituciones postulantes.  
    Estas reuniones permitirán resolver dudas, explicar los estándares exigidos y definir los pasos siguientes.
 
-4. **Acompañamiento y validación del evento**  
+10.4. **Acompañamiento y validación del evento**  
    - Las instituciones aprobadas como Pre-Sede recibirán acceso al **sistema oficial de gestión**.  
    - La LNR asignará un **veedor** y un **juez capacitado** para supervisar el evento.  
    - Tras la competencia, se elaborará un **informe evaluativo** que determinará si la institución está en condiciones de ser promovida a sede regular.
 
-5. **Requisitos esenciales para Pre-Sede**  
+10.5. **Requisitos esenciales para Pre-Sede**  
    - Organizar **al menos una fecha de cada modalidad principal**:  
      Sumo, Carreras, Laberinto y Fútbol.  
    - Enviar **imágenes de las pistas** para verificar que están correctamente construidas antes del evento.  

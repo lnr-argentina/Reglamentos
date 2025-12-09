@@ -12,13 +12,13 @@ Una vez confirmada la participación, cada sede dispondrá de **20 (veinte) día
 3.1.1 El plazo máximo e improrrogable para el pago de la cuota anual de sede es el **31 de marzo** del año en curso (o la fecha que la Comisión Directiva comunique oficialmente si se modificara).
 
 3.2 Vencido dicho plazo sin que la sede haya abonado la totalidad del monto:
-   a) Se aplicará automáticamente un recargo del **100 % (cien por ciento)** del valor original de la cuota, más **dos (2) veces la variación del índice IPC-INDEC** acumulada desde el vencimiento hasta la fecha de efectivo pago.
+   a) Se aplicará automáticamente un recargo del **100 % (cien por ciento)** del valor original de la cuota, más **dos (2) veces la variación del índice IPC-INDEC** acumulada desde el vencimiento hasta la fecha de efectivo pago.  
    b) La sede quedará **inmediatamente suspendida** como organizadora y no podrá:
       - Realizar ninguna fecha zonal, interzonal ni final durante la temporada en curso.
       - Inscribir robots ni participantes en ninguna competencia oficial de la LNR.
-      - Acceder al sistema de fiscalización oficial.
-      - Participar con voz ni voto en ninguna reunión o asamblea.
-   c) La suspensión se mantendrá hasta tanto la sede no regularice el 100 % de la deuda (cuota + recargos).
+      - Acceder al sistema de fiscalización oficial.  
+      - Participar con voz ni voto en ninguna reunión o asamblea.  
+   c) La suspensión se mantendrá hasta tanto la sede no regularice el 100 % de la deuda (cuota + recargos).  
 
 3.3 **Está expresamente prohibido aceptar pagos parciales o “a cuenta” después del año en curso una vez vencido el 31 de marzo**. Cualquier pago recibido después de esa fecha solo se imputará a la deuda ya existente (con sus recargos) y no rehabilitará a la sede hasta la cancelación total.
 
@@ -26,7 +26,8 @@ Una vez confirmada la participación, cada sede dispondrá de **20 (veinte) día
 
 3.5 Excepción única: la Comisión Directiva podrá, por única vez y por causas de fuerza mayor debidamente justificadas y documentadas, otorgar una prórroga excepcional máxima de **15 días corridos** al 31 de marzo. Esta prórroga deberá ser solicitada por escrito con 20 días de antelación como mínimo y aprobada por votación de la Comisión. Fuera de este caso, no existe ningún otro mecanismo de extensión del plazo.
 
-**Art. 4 – Cancelación de fecha (habiendo abonado ya como confirmación)**  
+**Art. 4 – Cancelación de fecha (habiendo abonado ya como confirmación)**
+Este articulo no aplica para interzonales y final, estas no pueden cancelar la fecha.  
 a) La sede que cancele una fecha con un aviso de **al menos 2 (dos) meses de antelación** quedará exenta de sanciones.  
 b) La sede que cancele con menos de 2 (dos) meses de antelación deberá hacerse cargo de los daños ocasionados a los participantes e instituciones, incluyendo viáticos, reservas y otros gastos.  
 c) Toda sede que cancele una fecha confirmada será sancionada con la **imposibilidad de organizar eventos de la LNR durante el año siguiente**.

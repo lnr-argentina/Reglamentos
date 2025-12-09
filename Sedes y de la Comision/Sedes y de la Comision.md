@@ -7,9 +7,24 @@ La confirmación habilita el cálculo de gastos comunes (trofeos, servidor, domi
 **Art. 2 – Plazo de pago**  
 Una vez confirmada la participación, cada sede dispondrá de **20 (veinte) días hábiles** para realizar el pago del monto correspondiente establecido por la organización.
 
-**Art. 3 – Incumplimiento en el pago**  
-En caso de no cumplirse con el pago en término, se aplicará un recargo equivalente a **dos (2) veces la inflación oficial del INDEC**, calculada desde la fecha de vencimiento hasta el mes en curso, considerándose este último como completo aunque no haya finalizado.  
-La sede morosa deberá abonar el monto actualizado con el recargo correspondiente.
+**Art. 3 – Incumplimiento en el pago y consecuencias**
+
+3.1.1 El plazo máximo e improrrogable para el pago de la cuota anual de sede es el **31 de marzo** del año en curso (o la fecha que la Comisión Directiva comunique oficialmente si se modificara).
+
+3.2 Vencido dicho plazo sin que la sede haya abonado la totalidad del monto:
+   a) Se aplicará automáticamente un recargo del **100 % (cien por ciento)** del valor original de la cuota, más **dos (2) veces la variación del índice IPC-INDEC** acumulada desde el vencimiento hasta la fecha de efectivo pago.
+   b) La sede quedará **inmediatamente suspendida** como organizadora y no podrá:
+      - Realizar ninguna fecha zonal, interzonal ni final durante la temporada en curso.
+      - Inscribir robots ni participantes en ninguna competencia oficial de la LNR.
+      - Acceder al sistema de fiscalización oficial.
+      - Participar con voz ni voto en ninguna reunión o asamblea.
+   c) La suspensión se mantendrá hasta tanto la sede no regularice el 100 % de la deuda (cuota + recargos).
+
+3.3 **Está expresamente prohibido aceptar pagos parciales o “a cuenta” después del año en curso una vez vencido el 31 de marzo**. Cualquier pago recibido después de esa fecha solo se imputará a la deuda ya existente (con sus recargos) y no rehabilitará a la sede hasta la cancelación total.
+
+3.4 La sede que al **30 de noviembre** del año en curso aún mantenga deuda pendiente (aunque sea mínima) perderá automáticamente su condición de sede para la temporada siguiente y solo podrá volver a postularse como **Pre-Sede** al año siguiente, debiendo además abonar el doble de la cuota correspondiente a ese nuevo año como condición de reingreso.
+
+3.5 Excepción única: la Comisión Directiva podrá, por única vez y por causas de fuerza mayor debidamente justificadas y documentadas, otorgar una prórroga excepcional máxima de **15 días corridos** al 31 de marzo. Esta prórroga deberá ser solicitada por escrito con 20 días de antelación como mínimo y aprobada por votación de la Comisión. Fuera de este caso, no existe ningún otro mecanismo de extensión del plazo.
 
 **Art. 4 – Cancelación de fecha (habiendo abonado ya como confirmación)**  
 a) La sede que cancele una fecha con un aviso de **al menos 2 (dos) meses de antelación** quedará exenta de sanciones.  
@@ -77,6 +92,44 @@ Los lugares propuestos para la realización de Finales Nacionales o Interzonales
 - El incumplimiento de cualquiera de las condiciones establecidas implicará la exclusión automática del calendario del año siguiente.
 
 ---
+
+### **Art. 9 quater – Procedimiento de incorporación de nuevas Pre-Sedes**
+
+1. **Formulario de Preinscripción**  
+   La Liga Nacional de Robótica (LNR) habilitará un formulario de preinscripción para instituciones interesadas en incorporarse como **Pre-Sede**, disponible públicamente **una vez cada dos (2) meses**, en esos lapsos de tiempo serán convocados a reunión los interezados.
+
+2. **Capacitación y documentación previa**  
+   Tras completar el formulario, la institución recibirá:  
+   - El **Reglamento de Sedes y de la Comisión**,  
+   - El **Cronograma Anual de la LNR**,  
+   - Material informativo y guías operativas.  
+   El objetivo es asegurar que los postulantes comprendan integralmente el funcionamiento organizativo de la Liga.
+
+3. **Reuniones informativas de Pre-Sedes**  
+   Se realizarán **tres (3) reuniones anuales** específicas para tratar nuevas incorporaciones.  
+   En ellas se presentarán todas las instituciones interesadas y se explicarán las responsabilidades, requisitos técnicos y estándares de organización exigidos.
+
+4. **Requisitos mínimos para ser Pre-Sede**  
+   - Organizar al menos **una fecha de cada modalidad principal**:  
+     - Sumo (cualquier variante),  
+     - Carreras (cualquier variante),  
+     - Laberinto,  
+     - Fútbol.  
+   - Enviar **imágenes actualizadas** de pistas, tatamis y áreas de competencia para verificar su correcta construcción antes del evento.  
+   - Presentar un **mínimo de cuatro (4) robots por categoría** inscriptos en el sistema oficial.  
+   - Utilizar obligatoriamente el sistema de gestión de la LNR:  
+     👉 https://sistema.lnr-argentina.com.ar  
+   - Asumir los **viáticos, traslado y estadía** de un (1) **veedor oficial** y un (1) **juez capacitado**, designados por la LNR.
+
+5. **Evaluación y seguimiento**  
+   El veedor y el juez designados elaborarán un **informe post-evento** detallando:  
+   - Cumplimientos y desviaciones,  
+   - Condiciones técnicas,  
+   - Buenas prácticas observadas,  
+   - Aspectos a corregir.  
+
+   Este informe será utilizado por la Comisión para evaluar la continuidad de la institución como Pre-Sede y su eventual promoción a **Sede Regular**.
+
 
 ## Art. 9 ter – Estándares obligatorios para Sedes Interzonales y Finales
 

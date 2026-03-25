@@ -188,8 +188,8 @@ Efecto: expulsión de la categoría en el evento.
 
 #### a) Se otorgará un punto Yuhkoh cuando:
 a.1) El Robot contrario toque el suelo fuera del Ring.  
-a.2) En el caso de salirse los dos robots; el punto lo obtendrá el último que toque el suelo.  
-a.3) En caso de que los dos robots salgan al mismo tiempo y no pueda determinase quien toco el suelo primero los jueces pueden dar por ganado al robot que empujo al oponente o reiniciar el asalto en caso de dudas.  
+a.2) En el caso de que los dos robots salgan del ring: gana el punto el robot que estaba **empujando** al momento de la salida, independientemente de cuál toque el suelo primero. Si no hay un empujador claro (salida simultánea sin contacto), los jueces reinician el asalto.  
+a.3) Cuando un robot lleva al oponente fuera del ring —ya sea empujándolo, levantándolo o arrastrándolo—, el punto es del robot que **genera la acción de expulsión**, incluso si parte de su estructura sale del ring durante la maniobra, siempre que su oponente toque el suelo fuera primero o sea arrojado fuera. El criterio determinante para el árbitro es: **¿quién estaba empujando/dominando la acción?**
 a.4) Por la acumulación de dos faltas del equipo contrario en el mismo combate.  
 a.5) Si el jurado no detecta movimiento durante de 5 segundos es considerado como no tener la voluntad de luchar, en este caso, el oponente recibirá un punto “Yuhkoh”, siempre y cuando el oponente siga moviéndose.  
 a.6) Se otorgarán dos puntos Yuhkoh directos si el contrario es penalizado, perdiendo el combate.  

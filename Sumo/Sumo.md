@@ -26,6 +26,7 @@ Todas las dimensiones incluyen cualquier elemento en reposo (sensores, cuchillas
 - El borde negro exterior se considera fuera.  
 - La tolerancia de todas las medidas indicadas anteriormente será del ±5%
 - Se incluyen líneas de inicio (**shikiri-sen**) en el centro, separadas 20 cm.
+- La limpieza del ring, si se solicita, se realiza **una única vez** antes del inicio del torneo o bloque de combates. No podrá solicitarse limpieza antes de cada combate o asalto individual.
 
 ![imagen dimesiones ring](img/dim_ring.png)
 

@@ -56,7 +56,12 @@ Recorrer el circuito siguiendo la línea y **completar “n” vueltas** antes q
 - La superficie puede tener **irregularidades**; las elevaciones no superan **20°** de pendiente.  
 - **Perímetro libre:** **≥ 1 m** alrededor, sin obstáculos.  
 - Color del circuito: a criterio del organizador (pista negra con líneas blancas o viceversa).  
-- No se permiten **marcas de aviso** de curvas.
+- Se permiten **líneas de aviso** opcionales (no obligatorias), sujetas a las siguientes condiciones:
+  - Las líneas del **lado derecho** del carril indican el **inicio y fin de la pista**.
+  - Las líneas del **lado izquierdo** del carril indican el **cambio de curvatura**, ubicadas **10 cm antes** de donde comienza dicho cambio.
+  - Las líneas deben ser **perpendiculares a la línea central** y estar separadas de ella por un espacio de **2,5 cm** (no pueden tocarla).
+  - **No** pueden colocarse líneas de aviso a **ambos lados** del carril al mismo tiempo.
+  - Pueden realizarse con **cinta aislante**: blanca sobre fondo negro, o negra sobre fondo blanco.
 
 ![imagen dimesiones curva](img/dim_curva.png)
 

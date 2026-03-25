@@ -147,6 +147,12 @@ El Campeonato Nacional se organiza en zonas:
 > La ventaja deportiva solo aplica en caso de **igualdad numérica exacta en los puntos finales**.  
 > Si existe diferencia de puntaje (aunque sea mínima), no se considera empate y prevalece el mayor puntaje total.
 
+### 7.3) Posiciones finales del Campeonato y revisión de resultados
+
+- Los **4 primeros puestos** del campeonato son posiciones **con premio** y están sujetas a **revisión formal** ante reclamo fundado de algún equipo o por iniciativa de la organización.
+- A partir del **5º puesto**, las posiciones **no conllevan premio** y pueden quedar determinadas con condiciones de empate no resueltas (puntos iguales entre competidores de distintas zonas con diferente cantidad de eventos disponibles u otras variables). Estas posiciones **no son revisables**, salvo en casos especiales a criterio exclusivo de la organización.
+- La organización publicará el ranking final indicando, cuando corresponda, qué posiciones del 5º en adelante involucran empates no discriminados, a modo informativo.
+
 ---
 
 

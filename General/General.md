@@ -295,6 +295,12 @@ Esta primacía se funda en la **lógica consolidada y probada** del sistema, que
   El jurado puede requerir en **cualquier momento** la verificación de **dimensiones** y **peso** conforme al reglamento específico de la categoría.  
   - Si el/los robot(es) **no cumplen** las condiciones reglamentarias, se aplicará **Descalificación de la categoría en el evento** para el/los infractor(es), conforme al Reglamento General.
 
+- **Balanza central de la organización.**  
+  La sede debe disponer de una **balanza oficial centralizada** para la verificación de peso durante el evento.  
+  - Luego de instancias de **cuartos de final en adelante**, o ante el **pedido de cualquier capitán**, el jurado podrá convocar a ambos robots a ser pesados en dicha balanza.  
+  - El repesaje se aplica a **los dos robots** del enfrentamiento, no solo al denunciado.  
+  - Si alguno supera el peso reglamentario, se aplica **Descalificación de la categoría en el evento**.
+
 > **Notas de armonización con el Reglamento General**  
 > - Las figuras “Falta”, “Penalización” y “Descalificación del evento” se aplican con el **mismo alcance** definido en el Reglamento General.  
 > - Cuando la situación no esté expresamente prevista pero sí **resuelta por el sistema oficial de gestión**, prevalece la **Primacía del Sistema de Gestión** (ver §16 del General).

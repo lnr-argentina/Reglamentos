@@ -101,7 +101,7 @@ pista. El resto de las pruebas deberá ser consensuada con los jueces, **a crite
 - Una vez dada la señal dispone de 30 segundos para calibrar/configurar, si es que lo necesita (acorde al "Apoyaron" semaforo de liga). 
 - Antes/luego de posicionar, se permiten **calibraciones** (switch/controles, sensores).  
 - A la orden del juez, se **encienden** los robots (LED de largada visible).  
-- Durante la carrera, nadie ingresa al **área de competencia** sin autorización.
+- Durante la carrera, nadie ingresa al **área de competencia** sin autorización, salvo para **retirar su propio robot ante peligro inminente de colisión**; en ese caso debe avisar al juez inmediatamente.
 
 ### 7.4 Uso de dispositivos electrónicos
 Durante la competencia oficial en los encuentros, se prohíbe el uso de
@@ -136,7 +136,6 @@ ni daño sobre el rival. Ejemplos:
 - Maniobras prohibidas sin contacto (vuelta en U, 360°, cambio de carril sin colisión).  
 - Desprendimiento de piezas.  
 - Ingreso al área de pista sin consecuencias deportivas.  
-- Largada prematura o activación antes de la orden (reinicio sin penalización de carrera).  
 - Activar cualquier sistema antes de la señal de inicio. Ej. Turbinas sea el caso.  
 - Las faltas son por carrera.
 - **Tiempo Adicional** concedido (ver §12).  
@@ -146,8 +145,7 @@ Acumulación:
 
 ### 8.2 PÉRDIDA DE LA CARRERA
 - Ser **alcanzado** en una pista con **cruce**, antes de cumplir las “n” vueltas. No penaliza como Colision del punto 8.3. 
-- Salirse **completamente** de la pista y que el adversario **supere** el punto de salida.  
-
+- Salirse **completamente** de la pista y que el adversario **supere** el punto de salida.  - **Largada prematura o activación antes de la orden** (el robot que largó antes pierde esa carrera).  
 
 ### 8.3 PÉRDIDA DEL ENCUENTRO (PENALIZACIÓN)
 El piloto pierde automáticamente la totalidad del encuentro cuando en la carrera se genera acción de contacto, interferencia,

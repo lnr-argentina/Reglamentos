@@ -111,7 +111,8 @@ Las interferencias accidentales por solapamiento de frecuencias no se considerar
 
 ### 5.2 Rutina de combate
 - Sólo el/la capitán del equipo puede entrar en el área de competencia. Ningún otro miembro está autorizado.
-- Robots se ubican detrás de las líneas de inicio. Esta regla puede ser exceptuada por el jurado en casos excepcionales.
+- Robots se ubican detrás de las líneas de inicio (**shikiri-sen**), orientados **en paralelo** (sin estar enfrentados entre sí). Esta regla puede ser exceptuada por el jurado en casos excepcionales.  
+  - **Excepción – Mini Sumo Pro:** los robots deben posicionarse **de frente** al oponente, respetando igualmente las líneas de shikiri-sen.
 - El árbitro da la orden de posicionar los robots sobre el ring. Deben apoyarse simultáneamente y no se pueden mover después de apoyados.  
 - Una vez dada la señal dispone de 30 segundos para calibrar/configurar, si es que lo necesita (acorde al "Apoyaron" semaforo de liga).
   - Intentar obtener ventaja en este proceso se considera **falta**.

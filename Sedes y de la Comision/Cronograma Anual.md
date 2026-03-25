@@ -1,15 +1,16 @@
 # Cronograma Anual de Organización
 
+> **Nota sobre el cronograma:** Las semanas indicadas en este documento se cuentan a partir del **cierre del período de postulación para la Final Nacional** (Semana 1). Las secciones 1 y 2 ocurren antes del inicio del conteo.
+
 ## **1. Cierre de temporada anterior**
-**Hasta mediados de noviembre**
-- Realización de la **última competencia oficial del año**.  
-- Cierre de ranking anual y publicación de resultados.  
-- Apertura de convocatoria para sedes interesadas en organizar la **Final Nacional del año siguiente**.
+*(Ocurre antes del inicio del conteo de semanas)*
+- Realización de la **última competencia oficial del año** (Final Nacional).
+- Cierre de ranking anual y publicación de resultados.
 
 ---
 
 ## **2. Postulación para Final Nacional**
-**Desde el cierre de temporada hasta el 1° de febrero**
+*(Sin plazo fijo de semanas — se abre durante la Final Nacional y cierra antes de la Reunión de Evaluación)*
 - Apertura del período para que las instituciones presenten su **carpeta de postulación**, incluyendo:
   - Historial de participación en la Liga.  
   - Recursos e infraestructura disponible.  
@@ -19,7 +20,7 @@
 ---
 
 ## **3. Reunión de Evaluación y Votación**
-**Primera semana de febrero**
+**Semana 1**
 - Reunión de la Comisión Directiva para:
   - Votar la **sede finalista**, en caso de múltiples postulaciones.  
   - Evaluar el desempeño de las **Pre-Sedes** del año anterior.  
@@ -30,29 +31,29 @@
 ---
 
 ## **4. Propuestas de Interzonales y Sedes Zonales**
-**Segunda y tercera semana de febrero**
+**Semanas 2 y 3**
 - Apertura del período para presentación de:
   - Fechas interzonales.  
   - Fechas de liga zonal.  
-- Cierre de postulaciones al **finalizar febrero**, con todas las sedes **definidas y confirmadas**.
+- Cierre de postulaciones al **finalizar la Semana 4**, con todas las sedes **definidas y confirmadas**.
 
 ---
 
 ## **5. Establecimiento de Gastos Comunes**
-**Primera semana de marzo**
+**Semana 5**
 - La Comisión Directiva determina los **montos de aportes comunes** (trofeos, servidor, dominio, gastos logísticos, viáticos de veedores, etc.).  
 
 ---
 
 ## **6. Plazo de Pago de Sedes**
-**Desde segunda semana hasta el 31 de marzo**
+**Semanas 6 a 9**
 - Cada sede dispone de este período para **efectuar el pago correspondiente**.  
 - Sedes que no confirmen su pago o participación hasta el cierre del plazo serán **dadas de baja automáticamente**.  
 
 ---
 
 ## **7. Publicación del Calendario Oficial**
-**Durante abril**
+**Semanas 10 a 13**
 - Publicación del **calendario oficial de competencias** en el sitio web de la LNR.  
 - Se incluyen fechas de:  
   - Sedes Zonales  
@@ -62,7 +63,7 @@
 ---
 
 ## **8. Manejo de Bajas de Sedes**
-**Abril en adelante**
+**A partir de la Semana 10**
 - En caso de que alguna sede se **retire tras haber confirmado**, se convocará a una **reunión extraordinaria** para:
   - Recalcular los montos restantes.  
   - Reasignar fondos o fechas si corresponde.  
@@ -72,7 +73,7 @@
 ---
 
 ## **9. Inicio de Temporada**
-**A partir de mayo**
+**A partir de la Semana 14**
 - Inicio oficial del calendario competitivo con las primeras fechas zonales.  
 - Fiscalización y registro digital a través del sistema [**sistema.lnr-argentina.com.ar**](https://sistema.lnr-argentina.com.ar).  
 

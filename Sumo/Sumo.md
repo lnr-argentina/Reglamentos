@@ -23,9 +23,7 @@ Todas las dimensiones incluyen cualquier elemento en reposo (sensores, cuchillas
   - Sumo: Ø 154 cm o Ø 175 cm.  
   - Mini Sumo: Ø 77 cm.  
   - Micro Sumo: Ø 38.5 cm.  
-- El borde negro exterior se considera fuera.  
 - La tolerancia de todas las medidas indicadas anteriormente será del ±5%
-- Se incluyen líneas de inicio (**shikiri-sen**) en el centro, separadas 20 cm.
 - La limpieza del ring, si se solicita, se realiza **una única vez** antes del inicio del torneo o bloque de combates. No podrá solicitarse limpieza antes de cada combate o asalto individual.
 
 ![imagen dimesiones ring](img/dim_ring.png)
@@ -47,7 +45,7 @@ Verificación del sistema de inicio
 - Todos los robots deben contar con un tiempo de seguridad de 5 segundos antes de iniciar movimiento en modo autónomo.    
 
 Esta condición no se verificará obligatoriamente en la homologación inicial, pero podrá ser solicitada por el jurado en cualquier momento de la competencia, ya sea de oficio o a pedido de un competidor.
-Se permitirá el uso de registros en video como prueba válida en caso de sospecha de que un robot inicia movimiento antes del tiempo reglamentario.
+Se permitirá el uso de registros en **video como prueba válida** en caso de sospecha de que un robot inicia movimiento antes del tiempo reglamentario.
 Si se comprueba que el robot inicia antes de los 5 segundos, se aplicará la sanción correspondiente (penalización, pérdida de ronda o descalificación, según la gravedad y la reincidencia).
 
 - Responder a la prueba de **sustancias prohibidas** (ver Reglamento General).  
@@ -59,7 +57,7 @@ a) En la categoría Sumo, Mini Sumo Pro y Micro Sumo, y RC está permitido todo 
 
 b) En la categoría Mini Sumo (no PRO) no está permitido el uso de robots comerciales ni sus partes principales (chasis, sistemas de banderas, etc). Las ruedas comerciales (llanta + caucho), si serán aceptadas para esta categoría. Las placas comerciales especializadas para la competencia tampoco están permitidas. Se podrán utilizar para la parte de control cualquier tipo de elemento electrónico básico (compuertas, transistores, operacionales, etc.) también está permitido el uso de placa Arduino o similares, microcontroladores y microprocesadores. Con respecto al sistema de potencia (puente H) se permitirá el uso de los módulos VNH2SP30, TB6612FNG, L298 o L293 queacompañan a los kits de Arduino o similares. El diseño y armado de las placas deberán ser propios de los participantes. Se podrán usar sensores comerciales (Ej. GP2DXX, SRF04, etc.).  
 
-c) No se permite diseñar el Robot que cuando empiece el juego o durante el combate se separe en diferentes partes.
+c) No se permite diseñar el Robot que se separe en diferentes partes.
 
 d) Está permitido desplegar estructuras una vez iniciado el combate, siempre y cuando el robot se mantenga en una sola pieza.  
 
@@ -143,7 +141,6 @@ Ver **Reglamento General – Tablas de posiciones** para el cálculo de tablas e
 ## 7) Faltas y sanciones
 ### 7.1 Faltas (reinician el asalto)
 - Moverse antes de los 5 segundos (autónomos).  
-- Salida parcial del dohyo sin pérdida completa.  
 - Manipular el robot sin permiso del juez.  
 - Portar el control remoto en autónomos.  
 - Señalar con el control hacia la pista.  
@@ -192,7 +189,8 @@ a.2) En el caso de que los dos robots salgan del ring: gana el punto el robot qu
 a.3) Cuando un robot lleva al oponente fuera del ring —ya sea empujándolo, levantándolo o arrastrándolo—, el punto es del robot que **genera la acción de expulsión**, incluso si parte de su estructura sale del ring durante la maniobra, siempre que su oponente toque el suelo fuera primero o sea arrojado fuera. El criterio determinante para el árbitro es: **¿quién estaba empujando/dominando la acción?**
 a.4) Por la acumulación de dos faltas del equipo contrario en el mismo combate.  
 a.5) Si el jurado no detecta movimiento durante de 5 segundos es considerado como no tener la voluntad de luchar, en este caso, el oponente recibirá un punto “Yuhkoh”, siempre y cuando el oponente siga moviéndose.  
-a.6) Se otorgarán dos puntos Yuhkoh directos si el contrario es penalizado, perdiendo el combate.  
+a.6) Se otorgarán dos puntos Yuhkoh directos si el contrario es penalizado, perdiendo el combate.
+a.7) Si no hay empujador claro para el arbitro, reinicia el asalto. 
 
 ---
 ### 9) Detención del asalto
@@ -210,6 +208,8 @@ Cuando el combate se haya parado se volverá a empezar inmediatamente desde las 
 - **Entre asaltos**: máximo 1 minuto (ver Reglamento General).  
 - **Tiempo adicional**: el capitan puede solicitar un único tiempo de 5 minutos en todo el torneo (a criterio del juez), es unico por robot durante todo el evento no importa la instancia. 
 - **Apoyaron**: 30 segundos luego de apoyado el robot, para calibrar/configurar, si es que este lo necesita (acorde al "Apoyaron" semaforo de liga).
+
+Nota: Los tiempos entre asaltos, tiempo adicional y apoyaron son exclusivamente para intervención técnica sobre el robot. No podrán utilizarse con fines dilatorios o para demorar el desarrollo normal de la competencia.
 
 ---
 

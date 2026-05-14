@@ -341,7 +341,7 @@ Queda **prohibido** presentar videos como medio de reclamo para revertir decisio
 
 Los videos filmados por participantes, acompañantes o público no serán considerados prueba válida en ningún caso.  
 
-Sólo el **Juez/Jurado**, por decisión propia, podrá solicitar la revisión de material audiovisual disponible con el fin de **confirmar o modificar su propio criterio**. Esta revisión será a discreción absoluta del Jurado y no constituye obligación frente a ninguna petición externa.
+Sólo el **Juez/Jurado o Arbitro**, por decisión propia, podrá solicitar la revisión de material audiovisual disponible con el fin de **confirmar o modificar su propio criterio**. Esta revisión será a discreción absoluta del Jurado y no constituye obligación frente a ninguna petición externa.
 
 ---
 

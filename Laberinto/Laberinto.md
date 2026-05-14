@@ -16,7 +16,7 @@ El objetivo de la modalidad “Laberinto” es encontrar la llegada en el menor 
 3.1 El robot podrá llevar visible el nombre del equipo o institución.  
 3.2 No existen dimensiones máximas, pero deben ser compatibles con el tamaño del laberinto (giros en celdas de 18 cm).  
 3.3 El robot no puede tener elementos que dañen el circuito.  
-3.4 Debe contar con un **interruptor visible y accesible** debe ser visible y accesible, quedando a criterio de los jueces el cumplimiento de este requerimiento.  
+3.4 Debe contar con un interruptor o pulsador visible y accesible para iniciar y detener el robot.  
 3.5 Deben ser **completamente autónomos** (sin conexión o control externo). Está permitido transmitir datos telemétricos, pero el robot debe funcionar sin ese enlace si lo solicita el jurado.  
 3.6 Prohibido operar sobre el robot una vez comenzada la prueba.  
 3.7 Motorización: solo **motores eléctricos** alimentados por baterías.  

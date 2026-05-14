@@ -24,7 +24,7 @@ Este reglamento **complementa** al **Reglamento General de la LNR** y remite a �
 
 ### 3.2 Especificaciones
 - **Dimensiones máximas:** 20 × 15 cm (en cualquier orientación). **Sin límite de altura**.  
-- **Peso máximo:** 800 g.  
+- **Peso máximo:** 1 kg.  
 - **Tracción:** motores/motorreductores **eléctricos**.  
 - **Baterías:** Se permitirá el cambio de las baterías durante la competencia siempre y cuando no
 alteren la forma y peso del robot de manera significativa.
